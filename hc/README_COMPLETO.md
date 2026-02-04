@@ -9,7 +9,6 @@ Este é o sistema completo de navegação indoor para hospitais, com:
 
 ---
 
-## 📦 O Que Foi Criado
 
 ### **Arquivos Totais: 25+**
 
