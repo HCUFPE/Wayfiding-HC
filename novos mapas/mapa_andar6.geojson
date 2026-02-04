@@ -1,0 +1,9153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9923.630324500677,
+            6907.439546283882
+          ],
+          [
+            9923.718368406873,
+            6935.168363423712
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9928.13030181691,
+            6907.425258058791
+          ],
+          [
+            9928.218345723104,
+            6935.154075198624
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9932.630279133144,
+            6907.410969833702
+          ],
+          [
+            9932.718323039338,
+            6935.139786973525
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9937.130256449378,
+            6907.396681608616
+          ],
+          [
+            9937.218300355578,
+            6935.125498748439
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9941.630233765613,
+            6907.382393383528
+          ],
+          [
+            9941.718277671811,
+            6935.111210523349
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9946.130211081847,
+            6907.3681051584435
+          ],
+          [
+            9946.218254988044,
+            6935.09692229826
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9950.63018839808,
+            6907.353816933355
+          ],
+          [
+            9950.718232304276,
+            6935.082634073169
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9955.130165714314,
+            6907.339528708264
+          ],
+          [
+            9955.21820962051,
+            6935.068345848082
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9910.023164048633,
+            6873.711538110444
+          ],
+          [
+            9910.111341585185,
+            6901.482441204166
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9914.523141364863,
+            6873.697249885356
+          ],
+          [
+            9914.611318901423,
+            6901.468152979079
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9919.0231186811,
+            6873.682961660262
+          ],
+          [
+            9919.111296217652,
+            6901.45386475399
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9923.523095997332,
+            6873.668673435176
+          ],
+          [
+            9923.611273533892,
+            6901.439576528902
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9928.023073313569,
+            6873.654385210083
+          ],
+          [
+            9928.111250850123,
+            6901.425288303811
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9932.523050629805,
+            6873.640096984992
+          ],
+          [
+            9932.611228166359,
+            6901.411000078723
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9937.023027946037,
+            6873.625808759903
+          ],
+          [
+            9937.111205482595,
+            6901.396711853637
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9941.523005262272,
+            6873.611520534812
+          ],
+          [
+            9941.611182798828,
+            6901.382423628549
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9946.022982578506,
+            6873.597232309723
+          ],
+          [
+            9946.111160115064,
+            6901.368135403458
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9950.52295989474,
+            6873.582944084629
+          ],
+          [
+            9950.611137431295,
+            6901.353847178374
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9955.022937210975,
+            6873.5686558595435
+          ],
+          [
+            9955.111114747531,
+            6901.339558953283
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9906.955292413122,
+            6873.72127914632
+          ],
+          [
+            9956.572875997772,
+            6873.563734529344
+          ],
+          [
+            9956.570494626927,
+            6872.81373830997
+          ],
+          [
+            9906.952911042274,
+            6872.971282926944
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9907.152946193508,
+            6935.97096535423
+          ],
+          [
+            9956.770529778161,
+            6935.813420737255
+          ],
+          [
+            9956.768148407315,
+            6935.063424517883
+          ],
+          [
+            9907.150564822658,
+            6935.220969134856
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9956.66105353433,
+            6901.334637623087
+          ],
+          [
+            9907.043469949678,
+            6901.492182240041
+          ],
+          [
+            9907.06252091646,
+            6907.49215199502
+          ],
+          [
+            9956.680104501116,
+            6907.334607378068
+          ],
+          [
+            9956.67534175942,
+            6905.83461493932
+          ],
+          [
+            9955.925345540049,
+            6905.836996310167
+          ],
+          [
+            9955.927726910895,
+            6906.586992529542
+          ],
+          [
+            9907.810135764987,
+            6906.739774404801
+          ],
+          [
+            9907.795847539895,
+            6902.239797088566
+          ],
+          [
+            9956.66343490518,
+            6902.084633842458
+          ],
+          [
+            9956.66105353433,
+            6901.334637623087
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9907.258718131747,
+            6904.498329888491
+          ],
+          [
+            9879.478895000397,
+            6904.537035498221
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10964.991347102718,
+            6980.983752784186
+          ],
+          [
+            10965.061126823413,
+            7002.96039147211
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10963.658614953314,
+            7025.845701689504
+          ],
+          [
+            11013.158365431891,
+            7025.688531213531
+          ],
+          [
+            11013.156936609379,
+            7025.238533481907
+          ],
+          [
+            10963.657186130802,
+            7025.39570395788
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11029.020409015266,
+            7026.0172843906485
+          ],
+          [
+            11028.886607799117,
+            6983.877520085746
+          ],
+          [
+            11028.436610067496,
+            6983.878948908255
+          ],
+          [
+            11028.570411283645,
+            7026.0187132131605
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10963.037762981547,
+            6982.997293134349
+          ],
+          [
+            11024.526815940744,
+            6982.802054499269
+          ],
+          [
+            11024.525387118234,
+            6982.352056767643
+          ],
+          [
+            10963.03633607368,
+            6982.547295396651
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10965.055319575196,
+            7001.13058159788
+          ],
+          [
+            11011.545943282414,
+            7000.982965632432
+          ],
+          [
+            11011.568156034766,
+            7007.978717803862
+          ],
+          [
+            10962.667469134549,
+            7008.133986146854
+          ],
+          [
+            10962.581399228857,
+            6980.991097535614
+          ],
+          [
+            10963.031396960481,
+            6980.989668713109
+          ],
+          [
+            10963.116038043678,
+            7007.68255959272
+          ],
+          [
+            11011.116729480633,
+            7007.530148894746
+          ],
+          [
+            11011.097374373297,
+            7001.434392186564
+          ],
+          [
+            10965.056747728235,
+            7001.580579331628
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10965.157219066348,
+            7025.390941087596
+          ],
+          [
+            10965.102203818062,
+            7008.126255432952
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10969.772302907788,
+            7001.115604340248
+          ],
+          [
+            10969.70833526371,
+            6980.969438840934
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10969.713603640215,
+            6982.526093889338
+          ],
+          [
+            10969.711234868624,
+            6981.776097629967
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10978.772257537668,
+            7001.087027890078
+          ],
+          [
+            10978.708647243968,
+            6980.942126931189
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10978.713558270094,
+            6982.497517439174
+          ],
+          [
+            10978.711189498503,
+            6981.747521179796
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10996.772166797424,
+            7001.029874989742
+          ],
+          [
+            10996.708564496417,
+            6980.887505256237
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10996.713467529851,
+            6982.440364538835
+          ],
+          [
+            10996.711098758262,
+            6981.69036827946
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10974.272280222729,
+            7001.101316115162
+          ],
+          [
+            10974.208667930852,
+            6980.955782349927
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10974.213580955156,
+            6982.511805664259
+          ],
+          [
+            10974.211212183562,
+            6981.761809404879
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10983.159142773924,
+            7001.07309875238
+          ],
+          [
+            10983.095534428177,
+            6980.928814696334
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10983.100443506351,
+            6982.483588301472
+          ],
+          [
+            10983.098074734757,
+            6981.733592042091
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10992.272189482486,
+            7001.044163214829
+          ],
+          [
+            10992.208585183304,
+            6980.901160674974
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10992.213490214914,
+            6982.454652763921
+          ],
+          [
+            10992.211121443323,
+            6981.704656504543
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10987.772212167545,
+            7001.05845143991
+          ],
+          [
+            10987.708589480999,
+            6980.914816143445
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10987.713512899973,
+            6982.468940989006
+          ],
+          [
+            10987.711144128381,
+            6981.718944729626
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11005.772121431159,
+            7001.001298539562
+          ],
+          [
+            11005.708523126497,
+            6980.8601944187485
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11005.713422163588,
+            6982.411788088654
+          ],
+          [
+            11005.711053391997,
+            6981.6617918292795
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11001.272144114291,
+            7001.015586764654
+          ],
+          [
+            11001.208543811454,
+            6980.873849837493
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11001.21344484672,
+            6982.426076313747
+          ],
+          [
+            11001.211076075127,
+            6981.676080054372
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11010.272098748028,
+            7000.987010314473
+          ],
+          [
+            11010.2081491874,
+            6980.846540071974
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11010.213399480457,
+            6982.397499863565
+          ],
+          [
+            11010.211030708864,
+            6981.647503604189
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10969.657196382583,
+            7025.376652862509
+          ],
+          [
+            10969.602181134294,
+            7008.111967207863
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10974.157173698817,
+            7025.362364637422
+          ],
+          [
+            10974.102158450529,
+            7008.097678982778
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10978.657151015052,
+            7025.3480764123315
+          ],
+          [
+            10978.602135766763,
+            7008.083390757692
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10983.157128331286,
+            7025.333788187242
+          ],
+          [
+            10983.102113082994,
+            7008.069102532604
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10987.657105647522,
+            7025.319499962155
+          ],
+          [
+            10987.602090399232,
+            7008.054814307513
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10992.157082963757,
+            7025.305211737066
+          ],
+          [
+            10992.102067715465,
+            7008.040526082429
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10996.65706027999,
+            7025.290923511981
+          ],
+          [
+            10996.602045031701,
+            7008.026237857341
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11001.157037596226,
+            7025.276635286895
+          ],
+          [
+            11001.102022347934,
+            7008.011949632249
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11005.657014912458,
+            7025.2623470618055
+          ],
+          [
+            11005.601999664168,
+            7007.997661407159
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11010.156992228693,
+            7025.248058836718
+          ],
+          [
+            11010.101976980404,
+            7007.983373182076
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10965.272325591553,
+            7001.129892565336
+          ],
+          [
+            10965.208355938206,
+            6980.983094259709
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10965.213626323984,
+            6982.540382114427
+          ],
+          [
+            10965.211257552393,
+            6981.790385855055
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9904.40871329314,
+            6904.501330838446
+          ],
+          [
+            9878.128891087123,
+            6904.537946497856
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10129.708613724251,
+            6957.993621418879
+          ],
+          [
+            10129.758504309833,
+            6973.706315055219
+          ],
+          [
+            10129.158507334334,
+            6973.708220151897
+          ],
+          [
+            10129.108616748754,
+            6957.995526515562
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10061.398934756091,
+            6920.110324692874
+          ],
+          [
+            10061.085792618473,
+            6943.224862901675
+          ],
+          [
+            10060.485711748564,
+            6943.226768264732
+          ],
+          [
+            10060.798853886183,
+            6920.112230055936
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10060.311259591848,
+            6956.103927093311
+          ],
+          [
+            10060.323135009778,
+            6955.227344965023
+          ],
+          [
+            10060.923215879686,
+            6955.2254396019625
+          ],
+          [
+            10060.911204539727,
+            6956.112054793797
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10105.274018892931,
+            6956.867075675726
+          ],
+          [
+            10091.33306230928,
+            6956.911340682327
+          ],
+          [
+            10091.33496740596,
+            6957.511337657824
+          ],
+          [
+            10105.273776827711,
+            6957.467079468846
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10078.908142256701,
+            6956.950792004395
+          ],
+          [
+            10079.333122799322,
+            6956.949442615897
+          ],
+          [
+            10079.335027896002,
+            6957.549439591392
+          ],
+          [
+            10078.91004735338,
+            6957.550788979895
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10457.824675665426,
+            6957.248129077446
+          ],
+          [
+            10439.449269174076,
+            6957.306474248012
+          ],
+          [
+            10439.447364077396,
+            6956.70647727251
+          ],
+          [
+            10457.822758111406,
+            6956.648132340464
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10457.69271632336,
+            6915.958458016921
+          ],
+          [
+            10439.318167145917,
+            6916.016800465358
+          ],
+          [
+            10439.316262049237,
+            6915.416803489859
+          ],
+          [
+            10457.69079876934,
+            6915.3584612799295
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10129.199070004535,
+            6986.483151583328
+          ],
+          [
+            10129.196609267907,
+            6985.708159661859
+          ],
+          [
+            10129.796606243402,
+            6985.706254565185
+          ],
+          [
+            10129.799066980033,
+            6986.48124648665
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10882.697424381673,
+            6848.6327180204025
+          ],
+          [
+            10883.53325968978,
+            6848.630064095244
+          ],
+          [
+            10883.531354593097,
+            6848.030067119749
+          ],
+          [
+            10882.695519284995,
+            6848.032721044908
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10920.531956318522,
+            6856.7626282667525
+          ],
+          [
+            10920.503856142519,
+            6847.912672878154
+          ],
+          [
+            10894.031301664312,
+            6847.996727927874
+          ],
+          [
+            10894.059401840319,
+            6856.846683316469
+          ],
+          [
+            10894.659398815818,
+            6856.844778219792
+          ],
+          [
+            10894.633203736488,
+            6848.594819806694
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10919.905764263698,
+            6848.514574950331
+          ],
+          [
+            10919.931959343028,
+            6856.764533363429
+          ],
+          [
+            10920.531956318522,
+            6856.7626282667525
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9910.130392551971,
+            6907.482410959147
+          ],
+          [
+            9910.218436458166,
+            6935.21122809898
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9914.630369868206,
+            6907.468122734056
+          ],
+          [
+            9914.718413774403,
+            6935.19693987389
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9919.13034718444,
+            6907.453834508968
+          ],
+          [
+            9919.218391090639,
+            6935.1826516488
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10058.411274752974,
+            6917.5697981884105
+          ],
+          [
+            10058.368410077712,
+            6904.069866239707
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10102.72759057312,
+            6892.849707522744
+          ],
+          [
+            10071.750917704288,
+            6892.948063946194
+          ],
+          [
+            10058.365202366367,
+            6904.172789461326
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10117.805558054435,
+            6917.38121081805
+          ],
+          [
+            10117.76459847584,
+            6904.481275843114
+          ],
+          [
+            10102.722827831425,
+            6891.349715083999
+          ],
+          [
+            10071.828400866114,
+            6891.447810362138
+          ],
+          [
+            10056.868417638963,
+            6904.074628981404
+          ],
+          [
+            10056.911282314226,
+            6917.574560930109
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10116.305565615688,
+            6917.3859735597425
+          ],
+          [
+            10116.264847143833,
+            6904.561973477149
+          ],
+          [
+            10102.773409505111,
+            6892.848862006179
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10270.175560412295,
+            6850.753084323004
+          ],
+          [
+            10271.011395720401,
+            6850.750430397845
+          ],
+          [
+            10271.009490623723,
+            6850.150433422351
+          ],
+          [
+            10270.17365531562,
+            6850.153087347512
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10310.136085502481,
+            6858.8762441644985
+          ],
+          [
+            10310.107985326476,
+            6850.026288775905
+          ],
+          [
+            10281.509437694935,
+            6850.117094230474
+          ],
+          [
+            10281.53753787094,
+            6858.96704961907
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10281.53753787094,
+            6858.96704961907
+          ],
+          [
+            10282.13753484644,
+            6858.965144522393
+          ],
+          [
+            10282.111339767112,
+            6850.715186109293
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10309.509893447652,
+            6850.628190848082
+          ],
+          [
+            10309.53608852698,
+            6858.878149261177
+          ],
+          [
+            10310.136085502481,
+            6858.8762441644985
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10281.511342791615,
+            6850.717091205972
+          ],
+          [
+            10310.109890423151,
+            6850.626285751404
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10475.540896536235,
+            6813.130863579186
+          ],
+          [
+            10477.040994842666,
+            6813.126100501344
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10894.03320676099,
+            6848.596724903371
+          ],
+          [
+            10920.505761239196,
+            6848.512669853654
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10232.720796469132,
+            6995.843242872471
+          ],
+          [
+            10237.073240391532,
+            6995.779330394511
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10240.890816420291,
+            6988.6640732163105
+          ],
+          [
+            10245.557036337363,
+            6995.114414067001
+          ],
+          [
+            10246.667693723353,
+            6994.313791098244
+          ],
+          [
+            10244.486454271291,
+            6991.41928487812
+          ],
+          [
+            10248.27539352154,
+            6988.733961935349
+          ],
+          [
+            10253.207660943875,
+            6994.679527983052
+          ],
+          [
+            10254.383408824975,
+            6993.704161983535
+          ],
+          [
+            10252.667426281105,
+            6991.635643252151
+          ],
+          [
+            10256.398322288638,
+            6988.767770617377
+          ],
+          [
+            10261.270797258521,
+            6994.703082158627
+          ],
+          [
+            10262.319818960066,
+            6993.8419088321525
+          ],
+          [
+            10260.785471856978,
+            6991.694459300272
+          ],
+          [
+            10264.464506581047,
+            6988.71841501706
+          ],
+          [
+            10269.115977380308,
+            6994.816345324097
+          ],
+          [
+            10270.104602000956,
+            6994.109975604947
+          ],
+          [
+            10268.207923779493,
+            6991.455412794078
+          ],
+          [
+            10271.888786243588,
+            6988.715242682987
+          ],
+          [
+            10276.538589140975,
+            6995.015656819458
+          ],
+          [
+            10277.680588027373,
+            6994.1997015864945
+          ],
+          [
+            10275.560434060142,
+            6991.232365424235
+          ],
+          [
+            10279.100953886056,
+            6988.702673220687
+          ],
+          [
+            10283.868709416607,
+            6994.94266165692
+          ],
+          [
+            10284.92283036295,
+            6994.18949498347
+          ],
+          [
+            10282.624025402387,
+            6990.9721215309255
+          ],
+          [
+            10285.75560492414,
+            6988.734616110685
+          ],
+          [
+            10290.412238841462,
+            6994.936199946319
+          ],
+          [
+            10291.5066600438,
+            6994.154238844816
+          ],
+          [
+            10289.516949219236,
+            6991.369468977417
+          ],
+          [
+            10293.016941848327,
+            6988.868733350554
+          ],
+          [
+            10297.76547798215,
+            6994.730278201452
+          ],
+          [
+            10298.7449542082,
+            6993.9910286902095
+          ],
+          [
+            10296.765613551144,
+            6991.22077275602
+          ],
+          [
+            10300.198328131504,
+            6988.768107119934
+          ],
+          [
+            10304.759449253406,
+            6994.962153852169
+          ],
+          [
+            10305.853619658948,
+            6994.18037194433
+          ],
+          [
+            10304.084025015878,
+            6991.703673431822
+          ],
+          [
+            10308.10589294134,
+            6988.830059263569
+          ],
+          [
+            10312.773516807589,
+            6994.921504296972
+          ],
+          [
+            10313.819166018664,
+            6994.174390656331
+          ],
+          [
+            10312.00074414343,
+            6991.629354271222
+          ],
+          [
+            10315.923817282459,
+            6988.826328720818
+          ],
+          [
+            10320.477936495903,
+            6994.8569145019055
+          ],
+          [
+            10321.52021226586,
+            6994.112211176167
+          ],
+          [
+            10319.375590381345,
+            6991.11063007844
+          ],
+          [
+            10322.610569608772,
+            6988.799245837524
+          ],
+          [
+            10327.293543920434,
+            6994.854720564723
+          ],
+          [
+            10328.334066220159,
+            6994.111270088907
+          ],
+          [
+            10326.451606843382,
+            6991.476607762953
+          ],
+          [
+            10330.121667391306,
+            6988.854359050581
+          ],
+          [
+            10334.723685704237,
+            6994.9384664696745
+          ],
+          [
+            10335.850546163087,
+            6994.133327603805
+          ],
+          [
+            10333.99426780246,
+            6991.535307841159
+          ],
+          [
+            10337.790042419912,
+            6988.715769685449
+          ],
+          [
+            10342.725132150164,
+            6994.797648313447
+          ],
+          [
+            10343.740850344364,
+            6994.071920306489
+          ],
+          [
+            10341.997758180607,
+            6991.632314272395
+          ],
+          [
+            10345.646832002962,
+            6988.780223662287
+          ],
+          [
+            10350.50151212958,
+            6994.790988475317
+          ],
+          [
+            10351.507329314094,
+            6993.926202880012
+          ],
+          [
+            10349.605925794198,
+            6991.265026611281
+          ],
+          [
+            10352.854232580148,
+            6988.7797602288765
+          ],
+          [
+            10357.988480167827,
+            6994.576548282413
+          ],
+          [
+            10358.919057445837,
+            6993.720430694228
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10241.096687135267,
+            6986.865888447456
+          ],
+          [
+            10243.857375181307,
+            6990.28400171838
+          ],
+          [
+            10248.267871705008,
+            6986.90954866872
+          ],
+          [
+            10251.654676890463,
+            6990.787051382046
+          ],
+          [
+            10256.602666211302,
+            6986.983621015254
+          ],
+          [
+            10259.777315296675,
+            6990.850758655216
+          ],
+          [
+            10264.68516498119,
+            6986.880701536454
+          ],
+          [
+            10267.404326516591,
+            6990.445435843527
+          ],
+          [
+            10272.157529193231,
+            6986.906976030492
+          ],
+          [
+            10274.656371978948,
+            6990.292871037098
+          ],
+          [
+            10279.367505953996,
+            6986.926778069814
+          ],
+          [
+            10281.733296844579,
+            6990.023100376023
+          ],
+          [
+            10286.030713442216,
+            6986.952607398452
+          ],
+          [
+            10288.631699637763,
+            6990.416533108176
+          ],
+          [
+            10293.254963500736,
+            6987.113223107338
+          ],
+          [
+            10295.8361572378,
+            6990.299422481682
+          ],
+          [
+            10300.483058379468,
+            6986.979223706724
+          ],
+          [
+            10303.2390859112,
+            6990.721935831795
+          ],
+          [
+            10308.371038534277,
+            6987.0551690354205
+          ],
+          [
+            10311.135112437942,
+            6990.662401480634
+          ],
+          [
+            10316.19612115285,
+            6987.046323922054
+          ],
+          [
+            10318.526321531921,
+            6990.131986069767
+          ],
+          [
+            10322.871205472233,
+            6987.0275777993575
+          ],
+          [
+            10325.571855913646,
+            6990.519743121353
+          ],
+          [
+            10330.393171281385,
+            6987.074925835674
+          ],
+          [
+            10333.0705223336,
+            6990.614523093378
+          ],
+          [
+            10338.01298388555,
+            6986.943214774699
+          ],
+          [
+            10341.074748099534,
+            6990.716454848297
+          ],
+          [
+            10345.852702717937,
+            6986.982038893433
+          ],
+          [
+            10348.613390763978,
+            6990.400152164355
+          ],
+          [
+            10353.023887287676,
+            6987.025699114698
+          ],
+          [
+            10356.137665597358,
+            6990.54128978279
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10358.919057445837,
+            6993.720430694228
+          ],
+          [
+            10357.223472713098,
+            6991.332907295079
+          ],
+          [
+            10360.512322385326,
+            6988.795842609937
+          ],
+          [
+            10365.203659959989,
+            6994.765752921005
+          ],
+          [
+            10366.28672432399,
+            6993.991906250947
+          ],
+          [
+            10364.4490772059,
+            6991.409118927525
+          ],
+          [
+            10367.920282685565,
+            6988.794561172276
+          ],
+          [
+            10372.596541416267,
+            6994.8155423968765
+          ],
+          [
+            10373.603874751847,
+            6994.033186310798
+          ],
+          [
+            10372.014418427545,
+            6991.828317367525
+          ],
+          [
+            10375.645239849131,
+            6988.882184700884
+          ],
+          [
+            10380.505501806752,
+            6994.775087432174
+          ],
+          [
+            10381.506414358313,
+            6993.932561027874
+          ],
+          [
+            10379.532724110913,
+            6991.503278551829
+          ],
+          [
+            10383.24465699657,
+            6988.814255759757
+          ],
+          [
+            10388.19237128468,
+            6994.650764066239
+          ],
+          [
+            10389.300729654087,
+            6993.858844895131
+          ],
+          [
+            10387.42221337064,
+            6991.172641288992
+          ],
+          [
+            10390.600327952949,
+            6988.785833300854
+          ],
+          [
+            10395.359696577381,
+            6994.839619349918
+          ],
+          [
+            10396.448186132891,
+            6994.061896394641
+          ],
+          [
+            10394.881122539855,
+            6991.840184801704
+          ],
+          [
+            10398.797257465132,
+            6988.856953024169
+          ],
+          [
+            10403.556728116333,
+            6994.845587100163
+          ],
+          [
+            10404.633098624021,
+            6993.990140970683
+          ],
+          [
+            10402.624203421241,
+            6991.342280474028
+          ],
+          [
+            10405.781826210346,
+            6988.960546041834
+          ],
+          [
+            10410.48096514057,
+            6994.989077167161
+          ],
+          [
+            10411.558942063913,
+            6994.148812230133
+          ],
+          [
+            10409.531238779471,
+            6991.489487913652
+          ],
+          [
+            10412.970960199129,
+            6988.937522468615
+          ],
+          [
+            10417.891963379549,
+            6994.736508124076
+          ],
+          [
+            10418.938303360343,
+            6993.900872895158
+          ],
+          [
+            10417.215498289877,
+            6991.841699807695
+          ],
+          [
+            10420.756990191354,
+            6989.060887340461
+          ],
+          [
+            10425.534228100032,
+            6994.957467444733
+          ],
+          [
+            10426.641127916846,
+            6994.1665904056645
+          ],
+          [
+            10424.809403714951,
+            6991.9103502321195
+          ],
+          [
+            10428.499710944052,
+            6989.101222706852
+          ],
+          [
+            10433.163638709093,
+            6995.0328897560385
+          ],
+          [
+            10434.21234100606,
+            6994.283594693474
+          ],
+          [
+            10432.467258884242,
+            6991.931069840993
+          ],
+          [
+            10435.884897683829,
+            6988.970922057359
+          ],
+          [
+            10440.388432698812,
+            6995.210272454371
+          ],
+          [
+            10441.509324510947,
+            6994.409398171042
+          ],
+          [
+            10439.580359586065,
+            6991.975528000032
+          ],
+          [
+            10443.362251995866,
+            6988.933011682076
+          ],
+          [
+            10448.256722902997,
+            6994.856662762049
+          ],
+          [
+            10449.27024275817,
+            6994.019232707849
+          ],
+          [
+            10447.473742980048,
+            6991.937197389012
+          ],
+          [
+            10448.041776029448,
+            6990.879141968261
+          ],
+          [
+            10450.750207168276,
+            6988.943974966629
+          ],
+          [
+            10455.554539307868,
+            6995.058567675252
+          ],
+          [
+            10456.615133447867,
+            6994.260288419964
+          ],
+          [
+            10454.871863836324,
+            6991.899568307403
+          ],
+          [
+            10458.405584080812,
+            6989.070640479976
+          ],
+          [
+            10462.954308639226,
+            6995.16572203329
+          ],
+          [
+            10464.05389163851,
+            6994.450578678317
+          ],
+          [
+            10462.434471789293,
+            6992.201522060037
+          ],
+          [
+            10466.55977702974,
+            6989.069368946076
+          ],
+          [
+            10470.804614079916,
+            6995.3611386225675
+          ],
+          [
+            10471.927903302425,
+            6994.700383489649
+          ],
+          [
+            10470.132572750696,
+            6991.890043671148
+          ],
+          [
+            10474.140836787232,
+            6989.187115870984
+          ],
+          [
+            10478.855024362398,
+            6995.225339284687
+          ],
+          [
+            10479.912529505073,
+            6994.399719352678
+          ],
+          [
+            10477.525954838762,
+            6991.215524359374
+          ],
+          [
+            10480.548923919752,
+            6989.055620816468
+          ],
+          [
+            10485.272646480702,
+            6995.302664799654
+          ],
+          [
+            10486.295985841814,
+            6994.528863424057
+          ],
+          [
+            10484.685158851678,
+            6992.233066675693
+          ],
+          [
+            10488.635685124136,
+            6989.2974696980455
+          ],
+          [
+            10493.334152730768,
+            6995.163488083059
+          ],
+          [
+            10494.405992267924,
+            6994.397661522578
+          ],
+          [
+            10492.472547049329,
+            6991.78976283491
+          ],
+          [
+            10495.755579304983,
+            6989.225083143642
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10356.137665597358,
+            6990.54128978279
+          ],
+          [
+            10360.736675049942,
+            6986.993549499216
+          ],
+          [
+            10363.499505145946,
+            6990.509358714677
+          ],
+          [
+            10368.159443446197,
+            6986.999431718629
+          ],
+          [
+            10371.158819130018,
+            6990.861319120036
+          ],
+          [
+            10375.82616533685,
+            6987.074126215222
+          ],
+          [
+            10378.676791675342,
+            6990.5304139384925
+          ],
+          [
+            10383.455790112332,
+            6987.068380513799
+          ],
+          [
+            10386.28893504323,
+            6990.410463940561
+          ],
+          [
+            10390.83460091424,
+            6986.996606028476
+          ],
+          [
+            10393.934523170798,
+            6990.939621917937
+          ],
+          [
+            10399.020853497152,
+            6987.064959131761
+          ],
+          [
+            10401.693817665235,
+            6990.428233217049
+          ],
+          [
+            10406.01867187773,
+            6987.166078463263
+          ],
+          [
+            10408.647636936303,
+            6990.538780977141
+          ],
+          [
+            10413.172734897746,
+            6987.181563277171
+          ],
+          [
+            10416.327307959114,
+            6990.898960576314
+          ],
+          [
+            10420.959555754676,
+            6987.261676409205
+          ],
+          [
+            10423.945247293199,
+            6990.946937570592
+          ],
+          [
+            10428.72884385367,
+            6987.305578753143
+          ],
+          [
+            10431.608636452956,
+            6990.968150673246
+          ],
+          [
+            10436.105868545163,
+            6987.072925814546
+          ],
+          [
+            10438.864943518822,
+            6990.8954420101545
+          ],
+          [
+            10443.545701568326,
+            6987.129792117748
+          ],
+          [
+            10446.603624355119,
+            6990.8307166838895
+          ],
+          [
+            10447.047342996282,
+            6990.0042173911725
+          ],
+          [
+            10451.003090139908,
+            6987.177846349497
+          ],
+          [
+            10453.977331444656,
+            6990.963237048414
+          ],
+          [
+            10458.641223371562,
+            6987.229547694624
+          ],
+          [
+            10461.610115785988,
+            6991.207726886741
+          ],
+          [
+            10466.866199911752,
+            6987.2170257622965
+          ],
+          [
+            10469.332985647836,
+            6990.873337538046
+          ],
+          [
+            10474.417199344274,
+            6987.444855178392
+          ],
+          [
+            10476.62553467058,
+            6990.273427834864
+          ],
+          [
+            10480.820588165941,
+            6987.276073027531
+          ],
+          [
+            10483.832609160601,
+            6991.2594203535255
+          ],
+          [
+            10488.864811754542,
+            6987.5200404059315
+          ],
+          [
+            10491.550494022016,
+            6990.873104186787
+          ],
+          [
+            10494.961434882933,
+            6988.208503271264
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10495.755579304983,
+            6989.225083143642
+          ],
+          [
+            10500.581041973042,
+            6995.065454614846
+          ],
+          [
+            10501.598349522783,
+            6994.282684297842
+          ],
+          [
+            10500.000474647251,
+            6992.089261478552
+          ],
+          [
+            10503.835436828036,
+            6989.180579322332
+          ],
+          [
+            10508.337334154836,
+            6995.340079239126
+          ],
+          [
+            10509.529859925751,
+            6994.621002136327
+          ],
+          [
+            10507.806481096322,
+            6992.178446574843
+          ],
+          [
+            10507.466452623486,
+            6991.742955124582
+          ],
+          [
+            10511.17917165178,
+            6989.256513703835
+          ],
+          [
+            10515.692583735961,
+            6995.393285086899
+          ],
+          [
+            10516.747302386117,
+            6994.639691355624
+          ],
+          [
+            10514.384755083676,
+            6991.442981272008
+          ],
+          [
+            10518.274446009293,
+            6989.1550147783655
+          ],
+          [
+            10522.944674943543,
+            6995.278397602915
+          ],
+          [
+            10524.096556780954,
+            6994.4553810271655
+          ],
+          [
+            10522.17210337813,
+            6991.909933523036
+          ],
+          [
+            10526.372272517547,
+            6989.1867239175
+          ],
+          [
+            10531.014575112986,
+            6995.329834801776
+          ],
+          [
+            10532.103682173994,
+            6994.551670640434
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10496.750052408688,
+            6988.403424305675
+          ],
+          [
+            10499.052022783913,
+            6991.189553436052
+          ],
+          [
+            10504.102086652347,
+            6987.359259949588
+          ],
+          [
+            10506.596933905159,
+            6990.772712174417
+          ],
+          [
+            10511.48700507451,
+            6987.497787405477
+          ],
+          [
+            10513.61909365579,
+            6990.396733911519
+          ],
+          [
+            10518.606430265936,
+            6987.4631180343895
+          ],
+          [
+            10521.270991690071,
+            6990.956764681958
+          ],
+          [
+            10526.677721751399,
+            6987.451272700842
+          ],
+          [
+            10531.286539072315,
+            6993.550072868583
+          ],
+          [
+            10531.35373778851,
+            6993.502059560709
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10532.103682173994,
+            6994.551670640434
+          ],
+          [
+            10529.934214162502,
+            6991.516982783169
+          ],
+          [
+            10533.30456988939,
+            6989.117543955965
+          ],
+          [
+            10538.140164796494,
+            6995.069924924041
+          ],
+          [
+            10539.211436528163,
+            6994.1996452565245
+          ],
+          [
+            10537.20251583334,
+            6991.710632244029
+          ],
+          [
+            10540.565705958204,
+            6989.307641650493
+          ],
+          [
+            10545.062311722451,
+            6995.483876768784
+          ],
+          [
+            10546.19237628569,
+            6994.820748427449
+          ],
+          [
+            10544.249332757872,
+            6992.071520439287
+          ],
+          [
+            10548.762553107535,
+            6989.185664834964
+          ],
+          [
+            10553.182716661333,
+            6995.468435042235
+          ],
+          [
+            10554.241463055489,
+            6994.711963498362
+          ],
+          [
+            10552.337833082765,
+            6992.02532728982
+          ],
+          [
+            10556.269190064622,
+            6989.274259069049
+          ],
+          [
+            10560.871454533775,
+            6995.359418974007
+          ],
+          [
+            10561.984094382056,
+            6994.5644406973815
+          ],
+          [
+            10559.798872788584,
+            6991.69226457448
+          ],
+          [
+            10563.060701721897,
+            6989.1905091458175
+          ],
+          [
+            10567.807985175732,
+            6995.2638445524435
+          ],
+          [
+            10568.90520124109,
+            6994.479886528593
+          ],
+          [
+            10566.829966584948,
+            6991.833627933691
+          ],
+          [
+            10570.444899184535,
+            6989.250767996974
+          ],
+          [
+            10575.144985072457,
+            6995.515791622435
+          ],
+          [
+            10576.220452726935,
+            6994.7089646018385
+          ],
+          [
+            10574.467837494436,
+            6991.931583165049
+          ],
+          [
+            10578.252259967341,
+            6989.375959660212
+          ],
+          [
+            10582.924091086204,
+            6995.356028849073
+          ],
+          [
+            10583.984758542121,
+            6994.527399769576
+          ],
+          [
+            10582.339115852119,
+            6992.323278276816
+          ],
+          [
+            10586.098621664602,
+            6989.296443786892
+          ],
+          [
+            10591.39808325743,
+            6994.92878125129
+          ],
+          [
+            10592.426457228617,
+            6993.961185044949
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10531.054266016114,
+            6995.30188776073
+          ],
+          [
+            10528.133105051395,
+            6991.2157193259845
+          ],
+          [
+            10533.542546861598,
+            6987.364605151491
+          ],
+          [
+            10536.305725099077,
+            6990.765942498422
+          ],
+          [
+            10540.856057247654,
+            6987.514742017765
+          ],
+          [
+            10543.437010731004,
+            6991.059766059959
+          ],
+          [
+            10549.107435590919,
+            6987.433967607176
+          ],
+          [
+            10551.5954246249,
+            6990.970366925542
+          ],
+          [
+            10556.548152581427,
+            6987.504568080459
+          ],
+          [
+            10558.967844897896,
+            6990.703909353704
+          ],
+          [
+            10563.289869453236,
+            6987.389005778072
+          ],
+          [
+            10565.99249646718,
+            6990.8465537619495
+          ],
+          [
+            10570.720445766296,
+            6987.468446289369
+          ],
+          [
+            10573.427844251928,
+            6991.077298527497
+          ],
+          [
+            10578.52781534131,
+            6987.633283995996
+          ],
+          [
+            10581.454423676118,
+            6991.379421192651
+          ],
+          [
+            10586.219808202637,
+            6987.542738670517
+          ],
+          [
+            10589.392413302181,
+            6990.914625087446
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10592.426457228617,
+            6993.961185044949
+          ],
+          [
+            10590.349636147479,
+            6991.806573867887
+          ],
+          [
+            10593.644108486362,
+            6989.287071299274
+          ],
+          [
+            10598.44114648468,
+            6995.221825944771
+          ],
+          [
+            10599.603496308919,
+            6994.366994968076
+          ],
+          [
+            10597.549086859142,
+            6991.910839847092
+          ],
+          [
+            10600.924986708538,
+            6989.498768188437
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10589.392413302181,
+            6990.914625087446
+          ],
+          [
+            10593.85795607117,
+            6987.499526911048
+          ],
+          [
+            10596.657188183292,
+            6990.962654738476
+          ],
+          [
+            10601.153600681206,
+            6987.812995344214
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10600.924986708538,
+            6989.498768188437
+          ],
+          [
+            10605.942195487853,
+            6995.151694575669
+          ],
+          [
+            10606.969806626941,
+            6994.417469090536
+          ],
+          [
+            10605.104744299908,
+            6992.075721251425
+          ],
+          [
+            10608.742894718886,
+            6989.229064632918
+          ],
+          [
+            10613.796863693526,
+            6995.281140194559
+          ],
+          [
+            10614.806298667438,
+            6994.438180950562
+          ],
+          [
+            10612.580741397971,
+            6991.810683210349
+          ],
+          [
+            10615.781791887384,
+            6989.375210553594
+          ],
+          [
+            10620.540074560642,
+            6995.201553803971
+          ],
+          [
+            10621.518423319447,
+            6994.454545891394
+          ],
+          [
+            10620.152908589793,
+            6992.6569559505615
+          ],
+          [
+            10623.977764401176,
+            6989.522644915901
+          ],
+          [
+            10628.466775808145,
+            6995.485633361086
+          ],
+          [
+            10629.643023979519,
+            6994.645207103116
+          ],
+          [
+            10627.455023449598,
+            6991.875125500382
+          ],
+          [
+            10630.861572350892,
+            6989.3515945676145
+          ],
+          [
+            10635.43341282731,
+            6995.433638706562
+          ],
+          [
+            10636.566350895537,
+            6994.624157404602
+          ],
+          [
+            10634.640438474611,
+            6992.1158884261395
+          ],
+          [
+            10638.20523805205,
+            6989.319727018157
+          ],
+          [
+            10642.895458020626,
+            6995.05483938599
+          ],
+          [
+            10644.073934909838,
+            6994.212820714924
+          ],
+          [
+            10642.178613016811,
+            6992.127102987095
+          ],
+          [
+            10645.530891177561,
+            6989.289957617545
+          ],
+          [
+            10650.830157937566,
+            6994.912067909664
+          ],
+          [
+            10651.707443908623,
+            6994.0851591256105
+          ],
+          [
+            10650.283842535915,
+            6992.462320140587
+          ],
+          [
+            10653.547313859259,
+            6989.35584268026
+          ],
+          [
+            10658.183864426865,
+            6995.3940673647285
+          ],
+          [
+            10659.258131193406,
+            6994.583126566398
+          ],
+          [
+            10657.295082854229,
+            6992.12427193258
+          ],
+          [
+            10660.955339713923,
+            6989.401690945761
+          ],
+          [
+            10665.577703236564,
+            6995.349987524976
+          ],
+          [
+            10666.614697515402,
+            6994.609057810899
+          ],
+          [
+            10664.61129520317,
+            6992.00952391304
+          ],
+          [
+            10668.36001084458,
+            6989.410126084146
+          ],
+          [
+            10673.149044519849,
+            6995.364221566655
+          ],
+          [
+            10674.205622876825,
+            6994.609299079706
+          ],
+          [
+            10672.190009783975,
+            6992.127846766332
+          ],
+          [
+            10676.411278041907,
+            6989.327030529565
+          ],
+          [
+            10681.24703556111,
+            6995.1474742058135
+          ],
+          [
+            10682.276054566468,
+            6994.4182415312025
+          ],
+          [
+            10680.108243817662,
+            6991.716846748636
+          ],
+          [
+            10682.90672338586,
+            6989.3621255552835
+          ],
+          [
+            10687.916433899123,
+            6995.205744933415
+          ],
+          [
+            10688.858776593685,
+            6994.397878472831
+          ],
+          [
+            10687.305480422403,
+            6992.574034091382
+          ],
+          [
+            10690.810833589583,
+            6989.486030452144
+          ],
+          [
+            10695.541838226924,
+            6995.3064717722045
+          ],
+          [
+            10696.62034535962,
+            6994.535881232056
+          ],
+          [
+            10694.969809694725,
+            6992.497205373521
+          ],
+          [
+            10698.450781933907,
+            6989.472667386114
+          ],
+          [
+            10703.206056070794,
+            6995.37203601157
+          ],
+          [
+            10704.19527933571,
+            6994.665238562646
+          ],
+          [
+            10702.235908075276,
+            6992.059159137879
+          ],
+          [
+            10705.949899282821,
+            6989.383772494836
+          ],
+          [
+            10710.664676068318,
+            6995.39113486715
+          ],
+          [
+            10711.55120143054,
+            6994.695360425968
+          ],
+          [
+            10709.527289123504,
+            6992.027681401347
+          ],
+          [
+            10712.956429368029,
+            6989.426064385436
+          ],
+          [
+            10717.71675236069,
+            6995.426419479072
+          ],
+          [
+            10718.584176789924,
+            6994.738256796959
+          ],
+          [
+            10717.198630364965,
+            6992.9917848535015
+          ],
+          [
+            10721.429731213693,
+            6989.568040467453
+          ],
+          [
+            10726.044767874853,
+            6995.508317786693
+          ],
+          [
+            10727.072379013942,
+            6994.774092301551
+          ],
+          [
+            10724.817045587386,
+            6991.88612679873
+          ],
+          [
+            10727.825898006364,
+            6989.489101963857
+          ],
+          [
+            10732.811563248206,
+            6995.4455806304295
+          ],
+          [
+            10733.787004604254,
+            6994.626909737949
+          ],
+          [
+            10732.020022167108,
+            6992.641226556525
+          ],
+          [
+            10736.243381855287,
+            6989.47531663719
+          ],
+          [
+            10741.148500144896,
+            6995.50716884638
+          ],
+          [
+            10742.111830323705,
+            6994.770891670129
+          ],
+          [
+            10740.082224157917,
+            6992.043849168798
+          ],
+          [
+            10743.563080968395,
+            6989.155324525224
+          ],
+          [
+            10748.56934819515,
+            6995.842256572107
+          ],
+          [
+            10749.745596366523,
+            6995.001830314139
+          ],
+          [
+            10747.557595836603,
+            6992.231748711405
+          ],
+          [
+            10750.964144737898,
+            6989.708217778638
+          ],
+          [
+            10755.437674956333,
+            6995.652668333288
+          ],
+          [
+            10756.570613024567,
+            6994.84318703133
+          ],
+          [
+            10754.448232750996,
+            6992.059944549582
+          ],
+          [
+            10758.013032328436,
+            6989.263783141594
+          ],
+          [
+            10762.825051407728,
+            6995.465505373037
+          ],
+          [
+            10763.68156428877,
+            6994.791638499579
+          ],
+          [
+            10761.961685103039,
+            6992.378325296835
+          ],
+          [
+            10765.635803205128,
+            6989.558476460949
+          ],
+          [
+            10770.317294031669,
+            6995.364066845648
+          ],
+          [
+            10771.509457403963,
+            6994.552289640558
+          ],
+          [
+            10769.522575927904,
+            6991.931693732829
+          ],
+          [
+            10773.372965240618,
+            6989.356919334212
+          ],
+          [
+            10778.286436813869,
+            6995.750690575752
+          ],
+          [
+            10779.36070358041,
+            6994.939749777413
+          ],
+          [
+            10777.397655241233,
+            6992.480895143604
+          ],
+          [
+            10781.285659588626,
+            6989.595589169398
+          ],
+          [
+            10785.805531469172,
+            6995.400439960889
+          ],
+          [
+            10786.83617825294,
+            6994.664045515527
+          ],
+          [
+            10784.935267582805,
+            6992.207957405382
+          ],
+          [
+            10788.91273788383,
+            6989.4451149674
+          ],
+          [
+            10793.616031357726,
+            6995.279209731079
+          ],
+          [
+            10794.674450117542,
+            6994.522972281087
+          ],
+          [
+            10792.631339810627,
+            6992.00303527325
+          ],
+          [
+            10796.400613013479,
+            6989.525168327289
+          ],
+          [
+            10801.204471426068,
+            6995.30096648532
+          ],
+          [
+            10802.233490431434,
+            6994.571733810706
+          ],
+          [
+            10800.376823053024,
+            6992.305810691477
+          ],
+          [
+            10803.664348249991,
+            6989.601667668814
+          ],
+          [
+            10808.610119660943,
+            6995.3557988242155
+          ],
+          [
+            10809.376640344874,
+            6994.673556732751
+          ],
+          [
+            10807.445419631025,
+            6992.320774746246
+          ],
+          [
+            10810.637549180065,
+            6989.456568567192
+          ],
+          [
+            10815.577315721564,
+            6995.569189963359
+          ],
+          [
+            10816.655822854262,
+            6994.798599423217
+          ],
+          [
+            10814.947433910433,
+            6992.678952970399
+          ],
+          [
+            10819.024966451234,
+            6989.228174199664
+          ],
+          [
+            10823.905188759421,
+            6995.302418439272
+          ],
+          [
+            10825.038111933589,
+            6994.4929477790765
+          ],
+          [
+            10822.949698405095,
+            6991.706262702835
+          ],
+          [
+            10825.923429401764,
+            6989.559790054382
+          ],
+          [
+            10830.613633946998,
+            6995.532761482337
+          ],
+          [
+            10831.50015930922,
+            6994.8369870411525
+          ],
+          [
+            10829.742895986677,
+            6992.542505994868
+          ],
+          [
+            10833.63125475284,
+            6989.612778540087
+          ],
+          [
+            10838.400765117569,
+            6995.6259921439105
+          ],
+          [
+            10839.23223965603,
+            6994.96351556521
+          ],
+          [
+            10837.188013710256,
+            6992.295165497961
+          ],
+          [
+            10840.715843870279,
+            6989.373906189157
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10601.153600681206,
+            6987.812995344214
+          ],
+          [
+            10604.147769129204,
+            6991.186547167954
+          ],
+          [
+            10608.93209385827,
+            6987.443070926826
+          ],
+          [
+            10611.752211648314,
+            6990.820132805073
+          ],
+          [
+            10615.992572593976,
+            6987.5939159203135
+          ],
+          [
+            10619.321692233316,
+            6991.670301261905
+          ],
+          [
+            10624.19987935206,
+            6987.672828816036
+          ],
+          [
+            10626.620338909614,
+            6990.888051738244
+          ],
+          [
+            10631.123026093934,
+            6987.5525145951
+          ],
+          [
+            10633.81033310281,
+            6991.127512438355
+          ],
+          [
+            10638.403633835545,
+            6987.524614164519
+          ],
+          [
+            10641.355326953839,
+            6991.133888744859
+          ],
+          [
+            10645.630898321424,
+            6987.5153293872945
+          ],
+          [
+            10649.404270495743,
+            6991.5185840823315
+          ],
+          [
+            10653.69686765234,
+            6987.432488329683
+          ],
+          [
+            10656.512172465373,
+            6991.098887038914
+          ],
+          [
+            10661.198907937052,
+            6987.612788282851
+          ],
+          [
+            10663.821355722246,
+            6990.987489799386
+          ],
+          [
+            10668.612223094402,
+            6987.665453284234
+          ],
+          [
+            10671.385557463398,
+            6991.113476154319
+          ],
+          [
+            10676.66327717767,
+            6987.611703188086
+          ],
+          [
+            10679.263661914723,
+            6990.741593973242
+          ],
+          [
+            10683.054186792142,
+            6987.552137325343
+          ],
+          [
+            10686.496538090536,
+            6991.567497234936
+          ],
+          [
+            10690.96526354696,
+            6987.630821010304
+          ],
+          [
+            10694.126978038155,
+            6991.520602373349
+          ],
+          [
+            10698.615101325606,
+            6987.620973636789
+          ],
+          [
+            10701.397733658041,
+            6991.073092990077
+          ],
+          [
+            10706.200378532909,
+            6987.613490844713
+          ],
+          [
+            10708.816923772727,
+            6990.9473783508
+          ],
+          [
+            10713.18243904241,
+            6987.635353178601
+          ],
+          [
+            10716.53892196781,
+            6991.866177315785
+          ],
+          [
+            10721.641154735977,
+            6987.7375258321945
+          ],
+          [
+            10724.05470067175,
+            6990.844138679255
+          ],
+          [
+            10728.006929220763,
+            6987.695566178545
+          ],
+          [
+            10731.268573862906,
+            6991.592321332864
+          ],
+          [
+            10736.461852918515,
+            6987.699341598739
+          ],
+          [
+            10739.216107698696,
+            6991.086264563616
+          ],
+          [
+            10743.782952043155,
+            6987.296553250986
+          ],
+          [
+            10746.733112283662,
+            6991.237118179326
+          ],
+          [
+            10751.22503258308,
+            6987.909557016526
+          ],
+          [
+            10753.609635253302,
+            6991.07822962483
+          ],
+          [
+            10758.237242192588,
+            6987.448422211016
+          ],
+          [
+            10761.234019542007,
+            6991.310663902976
+          ],
+          [
+            10765.849455190215,
+            6987.768363280602
+          ],
+          [
+            10768.504349612875,
+            6991.060739599101
+          ],
+          [
+            10773.65987838088,
+            6987.613211984332
+          ],
+          [
+            10776.613367214573,
+            6991.456509271304
+          ],
+          [
+            10781.52910920696,
+            6987.808514446446
+          ],
+          [
+            10784.154159641726,
+            6991.179854718184
+          ],
+          [
+            10789.16322294641,
+            6987.700444031146
+          ],
+          [
+            10791.818227933292,
+            6990.993785341332
+          ],
+          [
+            10796.655260708822,
+            6987.813988339107
+          ],
+          [
+            10799.560458036136,
+            6991.306979166612
+          ],
+          [
+            10803.819796171692,
+            6987.803474612175
+          ],
+          [
+            10806.74950775292,
+            6991.212031798729
+          ],
+          [
+            10810.787081531329,
+            6987.58923279048
+          ],
+          [
+            10814.108366609342,
+            6991.699094675674
+          ],
+          [
+            10819.201768390029,
+            6987.388594989965
+          ],
+          [
+            10821.964078158384,
+            6990.826746602497
+          ],
+          [
+            10826.172922729122,
+            6987.7887550145515
+          ],
+          [
+            10829.048363505159,
+            6991.450626353508
+          ],
+          [
+            10833.859969686608,
+            6987.825267795016
+          ],
+          [
+            10836.517382749169,
+            6991.175631072751
+          ],
+          [
+            10840.972972367248,
+            6987.679231077669
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10840.715843870279,
+            6989.373906189157
+          ],
+          [
+            10845.809588833446,
+            6995.336105675829
+          ],
+          [
+            10846.72296173438,
+            6994.600532851271
+          ],
+          [
+            10844.957338371596,
+            6992.344902037894
+          ],
+          [
+            10848.847878067127,
+            6989.391474988354
+          ],
+          [
+            10853.415772446286,
+            6995.572953278656
+          ],
+          [
+            10854.498707059736,
+            6994.876699576726
+          ],
+          [
+            10852.709765562315,
+            6992.194130334303
+          ],
+          [
+            10856.699166184795,
+            6989.574138823859
+          ],
+          [
+            10861.420878764067,
+            6995.5617464860425
+          ],
+          [
+            10862.389270620619,
+            6994.869833024193
+          ],
+          [
+            10860.383249616141,
+            6992.136085541004
+          ],
+          [
+            10863.602854730709,
+            6989.59384708272
+          ],
+          [
+            10868.820726831986,
+            6995.429697102635
+          ],
+          [
+            10869.62497592598,
+            6994.710612668366
+          ],
+          [
+            10867.789322981116,
+            6992.122207060253
+          ],
+          [
+            10871.192235292372,
+            6989.5933059415875
+          ],
+          [
+            10876.064716195855,
+            6995.521000895629
+          ],
+          [
+            10876.899177281928,
+            6994.924780620815
+          ],
+          [
+            10874.71548002443,
+            6991.782847872777
+          ],
+          [
+            10877.753250215968,
+            6989.491513904179
+          ],
+          [
+            10882.806074575992,
+            6995.430726525345
+          ],
+          [
+            10883.669734770561,
+            6994.695961911206
+          ],
+          [
+            10882.100939749336,
+            6992.52453974784
+          ],
+          [
+            10886.016037114807,
+            6989.594389169457
+          ],
+          [
+            10890.532737301912,
+            6995.777250990158
+          ],
+          [
+            10891.437520392063,
+            6995.116289436898
+          ],
+          [
+            10889.50543024406,
+            6992.162874223627
+          ],
+          [
+            10893.337648251123,
+            6989.52871815789
+          ],
+          [
+            10898.018205817501,
+            6995.549975969704
+          ],
+          [
+            10898.986354804534,
+            6994.797396158599
+          ],
+          [
+            10897.302903660751,
+            6992.357734988402
+          ],
+          [
+            10901.17962990109,
+            6989.613372293298
+          ],
+          [
+            10905.75432647594,
+            6995.637003254925
+          ],
+          [
+            10906.649264917673,
+            6995.086924043462
+          ],
+          [
+            10904.733244742663,
+            6992.272312302698
+          ],
+          [
+            10908.371033681477,
+            6989.588564036252
+          ],
+          [
+            10913.185865904074,
+            6995.6396871496345
+          ],
+          [
+            10914.112692665112,
+            6994.97747184038
+          ],
+          [
+            10912.460063920074,
+            6992.595148444083
+          ],
+          [
+            10916.48030983101,
+            6989.507703238631
+          ],
+          [
+            10920.88904677518,
+            6995.909080268627
+          ],
+          [
+            10921.98132964659,
+            6995.376605523928
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10840.972972367248,
+            6987.679231077669
+          ],
+          [
+            10844.114018918295,
+            6991.365497133909
+          ],
+          [
+            10849.108726048462,
+            6987.573862991295
+          ],
+          [
+            10851.816156285995,
+            6991.237678273922
+          ],
+          [
+            10856.979694916048,
+            6987.846585562317
+          ],
+          [
+            10859.571562643156,
+            6991.133335190049
+          ],
+          [
+            10863.755742723395,
+            6987.82945687645
+          ],
+          [
+            10866.808568040886,
+            6991.243843113609
+          ],
+          [
+            10871.408739170087,
+            6987.825189663085
+          ],
+          [
+            10873.862532051102,
+            6990.8103908300445
+          ],
+          [
+            10877.947566507655,
+            6987.729124762162
+          ],
+          [
+            10881.218415922316,
+            6991.57376070066
+          ],
+          [
+            10886.287884651898,
+            6987.779651552544
+          ],
+          [
+            10888.733834974968,
+            6991.127886379157
+          ],
+          [
+            10893.609487592992,
+            6987.776503473872
+          ],
+          [
+            10896.425100291151,
+            6991.398621077047
+          ],
+          [
+            10901.452461610585,
+            6987.839715442625
+          ],
+          [
+            10904.00781954933,
+            6991.204426729157
+          ],
+          [
+            10908.606063751886,
+            6987.812110650666
+          ],
+          [
+            10911.62684099551,
+            6991.608524347805
+          ],
+          [
+            10916.772107145927,
+            6987.657092604875
+          ],
+          [
+            10921.98132964659,
+            6995.376605523928
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.250351365106,
+            6832.43020963076
+          ],
+          [
+            10005.250124527598,
+            6832.28732737988
+          ],
+          [
+            10005.296599426227,
+            6846.92427411729
+          ],
+          [
+            10002.296614548737,
+            6846.933799600682
+          ],
+          [
+            10002.329997607401,
+            6857.4475622134305
+          ],
+          [
+            10005.32998248489,
+            6857.438036730038
+          ],
+          [
+            10005.336911406963,
+            6859.6202526433435
+          ],
+          [
+            10006.98690308958,
+            6859.615013627476
+          ],
+          [
+            10006.96832305021,
+            6853.763359192355
+          ],
+          [
+            10006.958242226143,
+            6850.588473623243
+          ],
+          [
+            10006.891107151794,
+            6829.444747944858
+          ],
+          [
+            10005.39111471305,
+            6829.449510686554
+          ],
+          [
+            10005.393302430422,
+            6830.138517088602
+          ],
+          [
+            9960.24353002404,
+            6830.281875613655
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10011.193819185437,
+            6956.269916299003
+          ],
+          [
+            10011.177625863673,
+            6951.169942007271
+          ],
+          [
+            10008.652107587342,
+            6951.177960975155
+          ],
+          [
+            10008.557655179739,
+            6921.430830798831
+          ],
+          [
+            10017.107612080585,
+            6921.403683171165
+          ],
+          [
+            10017.103952009253,
+            6920.250969109341
+          ],
+          [
+            10064.423780859284,
+            6920.10072027069
+          ],
+          [
+            10064.415684198402,
+            6917.550733124823
+          ],
+          [
+            10005.995911301656,
+            6917.736226252034
+          ],
+          [
+            10006.055125401892,
+            6936.3852961132625
+          ],
+          [
+            9887.650233981896,
+            6937.139796188926
+          ],
+          [
+            9879.089628756476,
+            6927.269923092665
+          ],
+          [
+            9878.840846562513,
+            6914.543120752553
+          ],
+          [
+            9874.281491135634,
+            6914.556951859072
+          ],
+          [
+            9874.122551693019,
+            6925.185028202721
+          ],
+          [
+            9886.2873351343,
+            6938.700905468043
+          ],
+          [
+            9955.692293414926,
+            6938.700905467745
+          ],
+          [
+            9955.69229341494,
+            6942.866572587479
+          ],
+          [
+            9960.309722918555,
+            6942.883694011815
+          ],
+          [
+            9960.29526604124,
+            6938.330600846017
+          ],
+          [
+            10006.06084069193,
+            6938.185287039759
+          ],
+          [
+            10006.10212044148,
+            6951.18605763604
+          ],
+          [
+            10004.427659889321,
+            6951.191374344895
+          ],
+          [
+            10004.450561162972,
+            6958.403971522867
+          ],
+          [
+            10006.12501175426,
+            6958.395517706864
+          ],
+          [
+            10006.171896036925,
+            6973.16139710691
+          ],
+          [
+            10008.721883182794,
+            6973.153300446025
+          ],
+          [
+            10008.674983731007,
+            6958.382643636993
+          ],
+          [
+            10011.200486983773,
+            6958.3698931026165
+          ],
+          [
+            10065.107524650422,
+            6958.198741319884
+          ],
+          [
+            10065.100856812047,
+            6956.098751905644
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10726.13136439543,
+            6845.399315513962
+          ],
+          [
+            10613.877042663315,
+            6845.755742869772
+          ],
+          [
+            10613.991607255162,
+            6881.837065873745
+          ],
+          [
+            10605.730874327277,
+            6881.863295164067
+          ],
+          [
+            10605.737542165654,
+            6883.963284578312
+          ],
+          [
+            10613.998275093538,
+            6883.937055287987
+          ],
+          [
+            10614.006658558914,
+            6886.577369518361
+          ],
+          [
+            10616.903143958136,
+            6886.568172664149
+          ],
+          [
+            10616.804485883558,
+            6855.496496867443
+          ],
+          [
+            10622.054459418781,
+            6855.479827271509
+          ],
+          [
+            10622.030488539807,
+            6847.930365327261
+          ],
+          [
+            10668.830618326372,
+            6847.78176662519
+          ],
+          [
+            10668.995886001912,
+            6899.8316739045995
+          ],
+          [
+            10616.945782680139,
+            6899.996942202604
+          ],
+          [
+            10616.941245891703,
+            6898.568112174104
+          ],
+          [
+            10614.044760492481,
+            6898.577309028323
+          ],
+          [
+            10614.057671213111,
+            6902.643450876721
+          ],
+          [
+            10616.757657602853,
+            6902.634877941665
+          ],
+          [
+            10616.756415028356,
+            6902.243537729132
+          ],
+          [
+            10669.003017359608,
+            6902.077645511959
+          ],
+          [
+            10669.17131152812,
+            6955.080725745916
+          ],
+          [
+            10622.37118174195,
+            6955.22932444799
+          ],
+          [
+            10622.354512146014,
+            6949.9793509123765
+          ],
+          [
+            10617.104538610412,
+            6949.996020508317
+          ],
+          [
+            10617.020238082388,
+            6923.446154342534
+          ],
+          [
+            10622.270211618184,
+            6923.429484746596
+          ],
+          [
+            10622.247350458047,
+            6916.2295210406255
+          ],
+          [
+            10616.99737692225,
+            6916.246190636559
+          ],
+          [
+            10616.9922585459,
+            6914.634193532468
+          ],
+          [
+            10614.095773146677,
+            6914.643390386679
+          ],
+          [
+            10614.230438097162,
+            6957.055181824632
+          ],
+          [
+            10672.499410335877,
+            6956.870167516224
+          ],
+          [
+            10672.493695045841,
+            6955.0701765897375
+          ],
+          [
+            10671.545802815397,
+            6955.0731863154715
+          ],
+          [
+            10671.376767527632,
+            6901.836695715839
+          ],
+          [
+            10723.832021742672,
+            6901.670140991976
+          ],
+          [
+            10723.87960711719,
+            6916.656824403621
+          ],
+          [
+            10718.62963358158,
+            6916.673493999553
+          ],
+          [
+            10718.647732000029,
+            6922.373465266783
+          ],
+          [
+            10723.89770553563,
+            6922.356795670848
+          ],
+          [
+            10723.9843874345,
+            6949.656658056001
+          ],
+          [
+            10718.734413898894,
+            6949.67332765194
+          ],
+          [
+            10718.751083494833,
+            6954.923301187549
+          ],
+          [
+            10684.493634555796,
+            6955.0320746561665
+          ],
+          [
+            10684.499349845835,
+            6956.832065582658
+          ],
+          [
+            10726.484759829278,
+            6956.698754468822
+          ],
+          [
+            10726.300023029571,
+            6898.517181668282
+          ],
+          [
+            10723.822035520765,
+            6898.525049717562
+          ],
+          [
+            10723.824877630126,
+            6899.420152333858
+          ],
+          [
+            10671.369623415088,
+            6899.586707057717
+          ],
+          [
+            10671.2057430583,
+            6847.973726189092
+          ],
+          [
+            10713.90307311304,
+            6847.838154602921
+          ],
+          [
+            10713.934030934064,
+            6857.588105454768
+          ],
+          [
+            10723.691955094364,
+            6857.557122317075
+          ],
+          [
+            10723.783933587198,
+            6886.525110207606
+          ],
+          [
+            10726.261921096002,
+            6886.517242158324
+          ],
+          [
+            10726.252758455177,
+            6883.631532028092
+          ],
+          [
+            10734.219293451526,
+            6883.606236868314
+          ],
+          [
+            10734.212625613149,
+            6881.506247454074
+          ],
+          [
+            10726.246090616802,
+            6881.531542613847
+          ],
+          [
+            10726.13136439543,
+            6845.399315513962
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10822.137224984299,
+            6922.044721457034
+          ],
+          [
+            10822.222917243991,
+            6949.032903853653
+          ],
+          [
+            10819.972928585878,
+            6949.0400479661985
+          ],
+          [
+            10819.988169359303,
+            6953.840023770182
+          ],
+          [
+            10778.649940882357,
+            6953.971676257142
+          ],
+          [
+            10778.657106523542,
+            6956.221652077475
+          ],
+          [
+            10819.995313471849,
+            6956.090012428298
+          ],
+          [
+            10883.037984745559,
+            6955.889840779858
+          ],
+          [
+            10882.906958649299,
+            6914.624081220707
+          ],
+          [
+            10880.657099014641,
+            6914.638743000034
+          ],
+          [
+            10880.780980998357,
+            6953.654513901072
+          ],
+          [
+            10826.738135333657,
+            6953.8185914325495
+          ],
+          [
+            10826.722894560227,
+            6949.018615628564
+          ],
+          [
+            10824.471822143762,
+            6949.025763182233
+          ],
+          [
+            10824.386129361286,
+            6922.0374161402815
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10824.386130348708,
+            6922.037727121923
+          ],
+          [
+            10826.637202765178,
+            6922.030579568252
+          ],
+          [
+            10826.617199250055,
+            6915.730611325527
+          ],
+          [
+            10824.363323864918,
+            6915.737767779122
+          ],
+          [
+            10824.317702961902,
+            6901.369781032404
+          ],
+          [
+            10880.764272891116,
+            6901.183831892569
+          ],
+          [
+            10880.768867301487,
+            6902.630809549127
+          ],
+          [
+            10882.86885671573,
+            6902.62414171075
+          ],
+          [
+            10882.855580977104,
+            6898.443039978292
+          ],
+          [
+            10880.755591562864,
+            6898.449707816669
+          ],
+          [
+            10880.757128778572,
+            6898.933843234449
+          ],
+          [
+            10824.312012069078,
+            6899.113066478482
+          ],
+          [
+            10824.164287000276,
+            6852.588081425969
+          ],
+          [
+            10826.416687824649,
+            6852.58092965437
+          ],
+          [
+            10826.400018228715,
+            6847.330956118767
+          ],
+          [
+            10880.59273411383,
+            6847.158884646339
+          ],
+          [
+            10880.717489629293,
+            6886.449768306712
+          ],
+          [
+            10882.817479043537,
+            6886.4431004683365
+          ],
+          [
+            10882.810272001812,
+            6884.173292703314
+          ],
+          [
+            10891.307627887885,
+            6884.146312093184
+          ],
+          [
+            10891.300960049508,
+            6882.046322678942
+          ],
+          [
+            10882.80360416344,
+            6882.07330328907
+          ],
+          [
+            10882.68557941553,
+            6844.9022281498455
+          ],
+          [
+            10819.64290814239,
+            6845.102399798282
+          ],
+          [
+            10763.780734975264,
+            6845.280290360566
+          ],
+          [
+            10763.895461196633,
+            6881.412517460451
+          ],
+          [
+            10755.21251975558,
+            6881.439569070327
+          ],
+          [
+            10755.219187593952,
+            6883.539558484572
+          ],
+          [
+            10763.902129035008,
+            6883.512506874694
+          ],
+          [
+            10763.909931655427,
+            6885.969888016832
+          ],
+          [
+            10765.709922581922,
+            6885.9641727267945
+          ],
+          [
+            10765.587393740132,
+            6847.374564484775
+          ],
+          [
+            10819.649575980768,
+            6847.202389212519
+          ],
+          [
+            10819.666721850874,
+            6852.602361992
+          ],
+          [
+            10821.912826161459,
+            6852.59523027801
+          ],
+          [
+            10822.060551230054,
+            6899.1202152654605
+          ],
+          [
+            10765.752265158297,
+            6899.2996732542115
+          ],
+          [
+            10765.74802451549,
+            6897.96411223675
+          ],
+          [
+            10763.948033588993,
+            6897.969827526789
+          ],
+          [
+            10764.133140305294,
+            6956.267902990579
+          ],
+          [
+            10766.65716736814,
+            6956.25986534063
+          ],
+          [
+            10766.650001738764,
+            6954.009893226995
+          ],
+          [
+            10765.925987119244,
+            6954.0121990424295
+          ],
+          [
+            10765.759409270839,
+            6901.549661912332
+          ],
+          [
+            10822.067698733294,
+            6901.370203912769
+          ],
+          [
+            10822.113340977347,
+            6915.74491187334
+          ],
+          [
+            10819.867233275703,
+            6915.7520436631585
+          ],
+          [
+            10819.887236790826,
+            6922.052011905889
+          ],
+          [
+            10822.137225448943,
+            6922.0448677933455
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10927.74237416335,
+            6921.709552739673
+          ],
+          [
+            10927.72094182572,
+            6914.9595867653225
+          ],
+          [
+            10922.747332929868,
+            6914.975378854572
+          ],
+          [
+            10922.744117159955,
+            6913.96259444103
+          ],
+          [
+            10920.104523896709,
+            6913.970271245301
+          ],
+          [
+            10920.237416829274,
+            6955.823977939015
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10519.711112329373,
+            6846.005236129262
+          ],
+          [
+            10457.396588530495,
+            6846.203095780485
+          ],
+          [
+            10457.510988910228,
+            6882.232701318694
+          ],
+          [
+            10449.411029740986,
+            6882.2584201238515
+          ],
+          [
+            10449.417697579362,
+            6884.358409538089
+          ],
+          [
+            10457.592272495027,
+            6884.33245381472
+          ],
+          [
+            10457.599322028544,
+            6886.5526554645
+          ],
+          [
+            10459.486703056085,
+            6886.546662695411
+          ],
+          [
+            10459.365729417004,
+            6848.446854751303
+          ],
+          [
+            10513.718304412792,
+            6848.274275697876
+          ],
+          [
+            10513.742275291748,
+            6855.823737642125
+          ],
+          [
+            10515.692247736262,
+            6855.817546134203
+          ],
+          [
+            10515.83211517165,
+            6899.867824082777
+          ],
+          [
+            10459.52956773135,
+            6900.04659464412
+          ],
+          [
+            10459.524804989655,
+            6898.546602205373
+          ],
+          [
+            10457.562807904142,
+            6898.552831893662
+          ],
+          [
+            10457.576144200173,
+            6902.752809522159
+          ],
+          [
+            10459.537820591358,
+            6902.746580852135
+          ],
+          [
+            10459.537031638007,
+            6902.2964950074775
+          ],
+          [
+            10515.839760642668,
+            6902.1740350284845
+          ],
+          [
+            10515.886243730298,
+            6917.016915003937
+          ],
+          [
+            10513.936595152947,
+            6917.023429142867
+          ],
+          [
+            10513.955646119732,
+            6923.023398897848
+          ],
+          [
+            10515.905636290101,
+            6923.01720733364
+          ],
+          [
+            10515.992280633493,
+            6950.305241881704
+          ],
+          [
+            10514.042290463123,
+            6950.311433445904
+          ],
+          [
+            10514.057092517854,
+            6954.973237843114
+          ],
+          [
+            10459.617127421021,
+            6955.146094375584
+          ],
+          [
+            10459.488853118204,
+            6914.746796822878
+          ],
+          [
+            10457.68886219171,
+            6914.752512112912
+          ],
+          [
+            10457.824675665426,
+            6957.248129077055
+          ],
+          [
+            10576.580690207336,
+            6956.8710576948915
+          ],
+          [
+            10576.44531568254,
+            6914.513880884886
+          ],
+          [
+            10574.36947757054,
+            6914.5204720386
+          ],
+          [
+            10574.496799094792,
+            6954.619502356194
+          ],
+          [
+            10520.056530717333,
+            6954.792359851638
+          ],
+          [
+            10520.042242492249,
+            6950.292382535406
+          ],
+          [
+            10518.242256479183,
+            6950.298097809839
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10518.242256480833,
+            6950.298098329986
+          ],
+          [
+            10518.15561213579,
+            6923.010063261775
+          ],
+          [
+            10519.955598148854,
+            6923.004347987343
+          ],
+          [
+            10519.936547182073,
+            6917.004378232364
+          ],
+          [
+            10518.136556255577,
+            6917.010093522402
+          ],
+          [
+            10518.089252856676,
+            6902.1106689080025
+          ],
+          [
+            10519.589245295423,
+            6902.105906166306
+          ],
+          [
+            10519.582096646323,
+            6899.855917214441
+          ],
+          [
+            10518.08210420758,
+            6899.860679955785
+          ],
+          [
+            10517.94223677223,
+            6855.810402020458
+          ],
+          [
+            10519.742227320872,
+            6855.804686731624
+          ],
+          [
+            10519.718256441916,
+            6848.255224787377
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10975.902226437911,
+            6881.175935106155
+          ],
+          [
+            10978.149377264977,
+            6881.168800004229
+          ],
+          [
+            10978.033263203719,
+            6844.599482364287
+          ],
+          [
+            10920.493916273052,
+            6844.782179983096
+          ],
+          [
+            10920.611941020967,
+            6881.953255122319
+          ],
+          [
+            10912.300854191939,
+            6881.979644295199
+          ],
+          [
+            10912.30752203031,
+            6884.079633709436
+          ],
+          [
+            10920.009538178021,
+            6884.055178443864
+          ],
+          [
+            10920.012341126643,
+            6884.937947656835
+          ],
+          [
+            10922.789892632132,
+            6884.93163010714
+          ],
+          [
+            10922.789235703709,
+            6852.2749297437795
+          ],
+          [
+            10928.039741044859,
+            6852.258258459266
+          ],
+          [
+            10928.023071448919,
+            6847.00828492367
+          ],
+          [
+            10975.793256489194,
+            6846.856606124326
+          ],
+          [
+            10975.957121998503,
+            6898.464910881102
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10975.957121998503,
+            6898.464910881102
+          ],
+          [
+            10922.7097338633,
+            6898.633980770477
+          ],
+          [
+            10922.704321709925,
+            6896.929460631981
+          ],
+          [
+            10920.05044306021,
+            6896.937887166791
+          ],
+          [
+            10920.066421963145,
+            6901.970331735341
+          ],
+          [
+            10922.716805928458,
+            6901.962118750579
+          ],
+          [
+            10922.714812113949,
+            6901.334180710266
+          ],
+          [
+            10975.965654462338,
+            6901.164897399347
+          ],
+          [
+            10976.131530790524,
+            6953.381003091849
+          ],
+          [
+            10928.101889270956,
+            6953.53405415729
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10417.714498602925,
+            6917.328942868424
+          ],
+          [
+            10412.464463875443,
+            6917.345612658656
+          ],
+          [
+            10412.485883459769,
+            6924.0957272978085
+          ],
+          [
+            10417.735904571027,
+            6924.091057611307
+          ],
+          [
+            10417.817744764685,
+            6949.866959642704
+          ],
+          [
+            10412.567771229078,
+            6949.883629238641
+          ],
+          [
+            10412.584440825012,
+            6955.133602774251
+          ],
+          [
+            10363.588065529315,
+            6955.234716985436
+          ],
+          [
+            10364.483640980376,
+            6902.56538318715
+          ],
+          [
+            10372.605451940815,
+            6902.572605451108
+          ],
+          [
+            10372.599260376612,
+            6900.622615280742
+          ],
+          [
+            10364.51675572214,
+            6900.6178852008115
+          ],
+          [
+            10365.398784891078,
+            6848.7452164451215
+          ],
+          [
+            10412.996169381573,
+            6848.594086318143
+          ],
+          [
+            10413.020140260529,
+            6856.143548262393
+          ],
+          [
+            10417.520110964157,
+            6856.1292600583
+          ],
+          [
+            10417.617589998456,
+            6886.829605302044
+          ],
+          [
+            10419.867578656562,
+            6886.822461189499
+          ],
+          [
+            10419.860052848879,
+            6884.452260295843
+          ],
+          [
+            10428.417803436934,
+            6884.425087921836
+          ],
+          [
+            10428.41113559856,
+            6882.325098507596
+          ],
+          [
+            10419.853385010505,
+            6882.3522708816
+          ],
+          [
+            10419.739141801243,
+            6846.372165093865
+          ],
+          [
+            10310.097488216232,
+            6846.720296765516
+          ],
+          [
+            10310.212038922948,
+            6882.797246744065
+          ],
+          [
+            10300.351958747528,
+            6882.828554245197
+          ],
+          [
+            10300.359102860071,
+            6885.078542903318
+          ],
+          [
+            10310.219183035491,
+            6885.047235402181
+          ],
+          [
+            10310.228170676526,
+            6887.877830563021
+          ],
+          [
+            10312.575521616733,
+            6887.87037730799
+          ],
+          [
+            10312.468652864916,
+            6854.212805704235
+          ],
+          [
+            10315.702050125927,
+            6854.2025390951785
+          ],
+          [
+            10315.685223359516,
+            6848.90306580906
+          ],
+          [
+            10363.337867499951,
+            6848.7517602229045
+          ],
+          [
+            10362.414818068535,
+            6900.713987148343
+          ],
+          [
+            10344.413394274297,
+            6900.771144857593
+          ],
+          [
+            10344.419393822562,
+            6902.660660939516
+          ],
+          [
+            10362.38266268635,
+            6902.605064617815
+          ],
+          [
+            10361.48672252785,
+            6955.295847081102
+          ],
+          [
+            10316.023497634933,
+            6955.440200873324
+          ],
+          [
+            10316.00539867003,
+            6949.7400575036745
+          ],
+          [
+            10311.748486565099,
+            6949.753573953666
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10763.999437746279,
+            6914.159210064139
+          ],
+          [
+            10763.999496113825,
+            6914.159209878813
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10311.668034332368,
+            6924.415701678384
+          ],
+          [
+            10315.92494643766,
+            6924.402185228399
+          ],
+          [
+            10315.903514100024,
+            6917.652219254049
+          ],
+          [
+            10312.149767801542,
+            6917.652219254049
+          ],
+          [
+            10312.152371300666,
+            6916.106951534204
+          ],
+          [
+            10309.896360558085,
+            6916.114114767935
+          ],
+          [
+            10309.903544345048,
+            6917.671270220835
+          ],
+          [
+            10310.030671992856,
+            6957.709240498203
+          ],
+          [
+            10420.091547131273,
+            6957.359777723864
+          ],
+          [
+            10419.963543669763,
+            6917.045975998003
+          ],
+          [
+            10417.713608088323,
+            6917.053120525182
+          ],
+          [
+            10417.71449862991,
+            6917.32895134375
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10311.668053383335,
+            6924.42170164814
+          ],
+          [
+            10311.748505616064,
+            6949.7595739234175
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.478963112819,
+            6996.1847184895405
+          ],
+          [
+            9955.991104905674,
+            6996.191984357582
+          ],
+          [
+            9955.991104905674,
+            6994.391648988791
+          ],
+          [
+            9960.473247822782,
+            6994.384727563042
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10036.38036931449,
+            7034.421881094909
+          ],
+          [
+            10036.36135577823,
+            7029.889540287911
+          ],
+          [
+            10066.453781692511,
+            7029.793991505174
+          ],
+          [
+            10066.465720170323,
+            7034.421881094909
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10098.736337097414,
+            7034.418457566153
+          ],
+          [
+            10083.492142707302,
+            7034.418457566153
+          ],
+          [
+            10083.480311665558,
+            7029.739929256494
+          ],
+          [
+            10098.724458891818,
+            7029.69152638876
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.41563296967,
+            6976.2393294841295
+          ],
+          [
+            9955.80148967343,
+            6976.246479963573
+          ],
+          [
+            9955.81147710958,
+            6979.391953655043
+          ],
+          [
+            9960.425620405822,
+            6979.384803175594
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.357350335518,
+            6957.883618399262
+          ],
+          [
+            9955.747400454804,
+            6957.890367674618
+          ],
+          [
+            9955.750445308488,
+            6961.24608388424
+          ],
+          [
+            9960.36800525218,
+            6961.239310445586
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10920.237416829274,
+            6955.823977939015
+          ],
+          [
+            10928.109001904784,
+            6955.799621324889
+          ],
+          [
+            10928.109001034085,
+            6955.799347104746
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10928.08503246075,
+            6948.250611299782
+          ],
+          [
+            10922.835491519345,
+            6948.266913764952
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10115.264359747805,
+            6778.662568046942
+          ],
+          [
+            10115.264350750436,
+            6780.6987848623
+          ],
+          [
+            10110.558013512635,
+            6780.721032948933
+          ],
+          [
+            10110.551477455821,
+            6778.662547222274
+          ],
+          [
+            10115.264359747805,
+            6778.662568046942
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9874.115935584701,
+            6894.1379857156235
+          ],
+          [
+            9878.222012332046,
+            6894.126595152619
+          ],
+          [
+            9878.233913136377,
+            6897.9824973647565
+          ],
+          [
+            9874.116288799572,
+            6897.993758078437
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9874.119127619113,
+            6900.994557722044
+          ],
+          [
+            9878.243172273378,
+            6900.982490127579
+          ],
+          [
+            9878.26151702198,
+            6904.763310302149
+          ],
+          [
+            9874.113096765235,
+            6904.775455293481
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9874.1151130421,
+            6907.775045936547
+          ],
+          [
+            9878.26393262575,
+            6907.76331062312
+          ],
+          [
+            9878.275939494426,
+            6911.544790571882
+          ],
+          [
+            9874.11711134233,
+            6911.556531041652
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9956.55557359748,
+            6798.324445269086
+          ],
+          [
+            9956.540135576035,
+            6793.735602520533
+          ],
+          [
+            9960.127475708798,
+            6793.731374666766
+          ],
+          [
+            9960.127757881037,
+            6793.820242853884
+          ],
+          [
+            10006.808167633097,
+            6793.67207315123
+          ],
+          [
+            10006.845277864959,
+            6815.011132341204
+          ],
+          [
+            10024.516477342437,
+            6814.9550231526555
+          ],
+          [
+            10024.523145180814,
+            6817.055012566896
+          ],
+          [
+            10006.851945703334,
+            6817.111121755445
+          ],
+          [
+            10006.859350284532,
+            6818.948491858696
+          ],
+          [
+            10005.209358601913,
+            6818.953730874568
+          ],
+          [
+            10005.134675155829,
+            6795.927349261122
+          ],
+          [
+            9965.051049287162,
+            6796.05462187352
+          ],
+          [
+            9965.058193399724,
+            6798.304610531637
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9956.75601304908,
+            6832.738136269372
+          ],
+          [
+            9956.751117819153,
+            6829.827991281799
+          ],
+          [
+            9961.353549117866,
+            6829.820148409981
+          ],
+          [
+            9961.362789349267,
+            6832.730295144627
+          ],
+          [
+            9956.75601304908,
+            6832.738136269372
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.298931330542,
+            6847.730132505872
+          ],
+          [
+            9960.366562262805,
+            6869.03002513613
+          ],
+          [
+            9973.566495723018,
+            6868.988113009208
+          ],
+          [
+            9973.571258464715,
+            6870.488105447952
+          ],
+          [
+            10005.37109816668,
+            6870.387135323995
+          ],
+          [
+            10005.370250598837,
+            6870.12019971456
+          ],
+          [
+            10007.020242281456,
+            6870.114960698693
+          ],
+          [
+            10007.028233961842,
+            6872.631884966245
+          ],
+          [
+            9955.858643145813,
+            6872.794357481076
+          ],
+          [
+            9955.858643145813,
+            6872.794357481076
+          ],
+          [
+            9887.960783735058,
+            6873.0563313951525
+          ],
+          [
+            9878.399817939428,
+            6883.409538957345
+          ],
+          [
+            9878.445814287228,
+            6891.125532471888
+          ],
+          [
+            9874.11611219211,
+            6891.064419579464
+          ],
+          [
+            9874.116112192065,
+            6883.532426432484
+          ],
+          [
+            9886.267047285244,
+            6868.891002433563
+          ],
+          [
+            9956.840968318891,
+            6868.837443693672
+          ],
+          [
+            9956.842550224444,
+            6847.738007576507
+          ],
+          [
+            9960.298931331585,
+            6847.730132505867
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9994.78574321102,
+            6830.159895283623
+          ],
+          [
+            9994.730172635855,
+            6812.658328353173
+          ],
+          [
+            9992.630183221612,
+            6812.664996191546
+          ],
+          [
+            9992.68575379678,
+            6830.166563121998
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9977.0217333976,
+            6870.477149578836
+          ],
+          [
+            9977.017556994975,
+            6859.067477169164
+          ],
+          [
+            9979.117573079347,
+            6859.060809246107
+          ],
+          [
+            9979.121725791556,
+            6870.470481730999
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9978.382641941556,
+            6832.372636396294
+          ],
+          [
+            9978.361106751367,
+            6838.685370229775
+          ],
+          [
+            9980.461122835733,
+            6838.678702306721
+          ],
+          [
+            9980.482658025932,
+            6832.365968473235
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9994.924757889963,
+            6870.420304304799
+          ],
+          [
+            9994.85240433001,
+            6847.633052806516
+          ],
+          [
+            9992.302417184144,
+            6847.641149467401
+          ],
+          [
+            9992.374770744102,
+            6870.428400965682
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.478963112819,
+            6996.1847184895405
+          ],
+          [
+            9960.473247822782,
+            6994.384727563042
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.364970722232,
+            6960.283606301252
+          ],
+          [
+            9960.357350335518,
+            6957.883618399262
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10232.697278673462,
+            6988.537474269744
+          ],
+          [
+            10232.720796469132,
+            6995.843242872471
+          ],
+          [
+            10127.927209934634,
+            6996.140445905248
+          ],
+          [
+            10127.952404065665,
+            6986.476252734103
+          ],
+          [
+            10132.078511192989,
+            6986.486240239198
+          ],
+          [
+            10132.08891034231,
+            6988.856923660585
+          ],
+          [
+            10232.697278673462,
+            6988.537474269744
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10922.835493548959,
+            6948.267552978761
+          ],
+          [
+            10922.751219252395,
+            6921.725948226597
+          ],
+          [
+            10927.742375902335,
+            6921.710100420117
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.2879595044,
+            6850.159631863828
+          ],
+          [
+            9979.489514762903,
+            6850.098663524592
+          ],
+          [
+            9979.50959844526,
+            6847.681768932967
+          ],
+          [
+            9960.298971444377,
+            6847.742766076598
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10109.493227006242,
+            6924.43288935486
+          ],
+          [
+            10109.573902832914,
+            6951.208532449639
+          ],
+          [
+            10105.260334532559,
+            6951.222228793081
+          ],
+          [
+            10105.28642568766,
+            6958.072105533274
+          ],
+          [
+            10114.099968321705,
+            6958.043181632891
+          ],
+          [
+            10184.634940151114,
+            6957.8192206030335
+          ],
+          [
+            10184.626843490232,
+            6955.269233457167
+          ],
+          [
+            10114.091871660821,
+            6955.493194487026
+          ],
+          [
+            10114.074249516547,
+            6949.943222463671
+          ],
+          [
+            10111.824260858433,
+            6949.950366576214
+          ],
+          [
+            10111.743294249598,
+            6924.450495117552
+          ],
+          [
+            10113.993282907717,
+            6924.443351005006
+          ],
+          [
+            10113.978994682626,
+            6919.943373688774
+          ],
+          [
+            10121.059470305452,
+            6919.920891924458
+          ],
+          [
+            10121.05137364457,
+            6917.370904778597
+          ],
+          [
+            10076.415623708357,
+            6917.5126311912545
+          ],
+          [
+            10076.423720369243,
+            6920.062618337121
+          ],
+          [
+            10076.841001733937,
+            6920.061293394871
+          ],
+          [
+            10076.955307534641,
+            6956.061111924745
+          ],
+          [
+            10075.600803883259,
+            6956.065412713773
+          ],
+          [
+            10075.607471721634,
+            6958.165402128014
+          ],
+          [
+            10078.911965543384,
+            6958.154909774783
+          ],
+          [
+            10078.790991904305,
+            6920.055101830663
+          ],
+          [
+            10107.229028708276,
+            6919.964806026408
+          ],
+          [
+            10107.243316933362,
+            6924.464783342639
+          ],
+          [
+            10109.493305591479,
+            6924.457639230094
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10209.078515299043,
+            6919.641415865242
+          ],
+          [
+            10209.098042540001,
+            6925.791384864095
+          ],
+          [
+            10210.748034222615,
+            6925.786145848234
+          ],
+          [
+            10210.82947710562,
+            6951.436016550767
+          ],
+          [
+            10209.179485423001,
+            6951.441255566634
+          ],
+          [
+            10209.191392277244,
+            6955.191236663494
+          ],
+          [
+            10200.015743287851,
+            6955.220370974379
+          ],
+          [
+            10200.023839948735,
+            6957.770358120243
+          ],
+          [
+            10270.514648542545,
+            6957.546537316476
+          ],
+          [
+            10270.333430794039,
+            6900.473265266502
+          ],
+          [
+            10268.233441379796,
+            6900.479933104872
+          ],
+          [
+            10268.408287126378,
+            6955.546387374204
+          ],
+          [
+            10214.443090472374,
+            6955.717736432787
+          ],
+          [
+            10214.429458959183,
+            6951.424585970694
+          ],
+          [
+            10212.929466520438,
+            6951.429348712396
+          ],
+          [
+            10212.848023637438,
+            6925.779478009857
+          ],
+          [
+            10214.348016076181,
+            6925.77471526816
+          ],
+          [
+            10214.320392174346,
+            6917.074759123441
+          ],
+          [
+            10212.820399735027,
+            6917.079521865139
+          ],
+          [
+            10212.628937518843,
+            6856.779825827644
+          ],
+          [
+            10214.128929957982,
+            6856.775063085946
+          ],
+          [
+            10214.10543535347,
+            6849.3756003855615
+          ],
+          [
+            10268.070632007843,
+            6849.204251327003
+          ],
+          [
+            10268.195339446227,
+            6888.479993594911
+          ],
+          [
+            10270.295328860471,
+            6888.473325756541
+          ],
+          [
+            10270.284853024637,
+            6885.174033973785
+          ],
+          [
+            10279.359208717644,
+            6885.1452212870645
+          ],
+          [
+            10279.3520646051,
+            6882.895232628945
+          ],
+          [
+            10270.277708912094,
+            6882.924045315664
+          ],
+          [
+            10270.163715446155,
+            6847.022594452447
+          ],
+          [
+            10214.097814966844,
+            6846.975612483578
+          ],
+          [
+            10206.895382254897,
+            6847.023231608015
+          ],
+          [
+            10189.134514383048,
+            6847.054875384838
+          ],
+          [
+            10189.141601351697,
+            6849.304864224399
+          ],
+          [
+            10206.902447782204,
+            6849.248470390879
+          ],
+          [
+            10206.92641866116,
+            6856.797932335142
+          ],
+          [
+            10210.526569844038,
+            6856.839197995301
+          ],
+          [
+            10210.678021919684,
+            6903.736256998684
+          ],
+          [
+            10210.45302305445,
+            6903.736971409935
+          ],
+          [
+            10210.457785796149,
+            6905.236963848678
+          ],
+          [
+            10210.682784661385,
+            6905.236249437426
+          ],
+          [
+            10210.720410320782,
+            6917.086189703514
+          ],
+          [
+            10176.82058120515,
+            6917.193827665847
+          ],
+          [
+            10176.61150703152,
+            6849.344624648987
+          ],
+          [
+            10177.148020763247,
+            6849.342921122856
+          ],
+          [
+            10177.134516886686,
+            6847.092952560556
+          ],
+          [
+            10173.89801676522,
+            6847.103229021743
+          ],
+          [
+            10174.12059481541,
+            6917.202400600894
+          ],
+          [
+            10136.440273442187,
+            6917.3220422958075
+          ],
+          [
+            10136.448370103071,
+            6919.872029441674
+          ],
+          [
+            10209.078515299043,
+            6919.641415865242
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10379.432950822786,
+            6885.538168015564
+          ],
+          [
+            10364.772670843277,
+            6885.567362184385
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10193.507871238331,
+            6905.290782829848
+          ],
+          [
+            10193.957868969957,
+            6905.28935400734
+          ],
+          [
+            10193.953106228255,
+            6903.789361568595
+          ],
+          [
+            10193.503108496638,
+            6903.790790391104
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10176.784066152715,
+            6905.343883873385
+          ],
+          [
+            10177.007954412138,
+            6905.343172988503
+          ],
+          [
+            10177.003191670443,
+            6903.843180549762
+          ],
+          [
+            10176.779443929558,
+            6903.843870018048
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9945.725396956459,
+            6905.8693829537
+          ],
+          [
+            9955.325348564425,
+            6905.838901406849
+          ],
+          [
+            9955.315823081035,
+            6902.838916529359
+          ],
+          [
+            9945.715871473069,
+            6902.869398076216
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11029.262564049946,
+            6866.073847025214
+          ],
+          [
+            11023.344400016105,
+            6866.092638244347
+          ],
+          [
+            11023.337732177728,
+            6863.992648830106
+          ],
+          [
+            11029.255896211576,
+            6863.973857610977
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10991.583770176017,
+            6828.809908869765
+          ],
+          [
+            11011.083671879704,
+            6828.74799322771
+          ],
+          [
+            11011.091544637678,
+            6831.2274637075
+          ],
+          [
+            11008.841555979563,
+            6831.234607820044
+          ],
+          [
+            11008.840827334128,
+            6831.005125998372
+          ],
+          [
+            10991.590914288563,
+            6831.059897527877
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11008.883837967926,
+            6844.5510265741705
+          ],
+          [
+            11008.87013242974,
+            6840.234562452511
+          ],
+          [
+            11011.120121087857,
+            6840.227418339968
+          ],
+          [
+            11011.133826626045,
+            6844.543882461627
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10995.794284590456,
+            6881.232632875806
+          ],
+          [
+            10995.737871304824,
+            6864.080283277316
+          ],
+          [
+            10997.687861475191,
+            6864.074091713108
+          ],
+          [
+            10997.744286364601,
+            6881.229969416966
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11012.444300753075,
+            6881.2098910335535
+          ],
+          [
+            11012.394455213265,
+            6866.127406258726
+          ],
+          [
+            11006.694483946036,
+            6866.145504677174
+          ],
+          [
+            11006.687816107658,
+            6864.045515262928
+          ],
+          [
+            11014.337777545259,
+            6864.021225280279
+          ],
+          [
+            11014.394301513059,
+            6881.207227576097
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10928.0982207749,
+            6953.534065847302
+          ],
+          [
+            10928.081813021967,
+            6948.250621297758
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.19178977829,
+            6813.98664439085
+          ],
+          [
+            9979.847826365518,
+            6813.911930308405
+          ],
+          [
+            9979.85118281784,
+            6812.111910577521
+          ],
+          [
+            9960.186074488243,
+            6812.186653464358
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9977.71814663471,
+            6830.226390610526
+          ],
+          [
+            9977.731028019527,
+            6822.918696885876
+          ],
+          [
+            9979.8310441039,
+            6822.912028962819
+          ],
+          [
+            9979.818906721986,
+            6830.219720325129
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.415538954076,
+            6976.209719923734
+          ],
+          [
+            9969.177813037957,
+            6976.181898151403
+          ],
+          [
+            9978.858265197672,
+            6986.150568942925
+          ],
+          [
+            10006.213329243006,
+            6986.210497771182
+          ],
+          [
+            10006.209997970498,
+            6985.161336616864
+          ],
+          [
+            10008.759985116365,
+            6985.153239955986
+          ],
+          [
+            10008.76335983548,
+            6986.216084317982
+          ],
+          [
+            10017.541139803801,
+            6986.235314471027
+          ],
+          [
+            10017.546378895091,
+            6987.885329908284
+          ],
+          [
+            9978.159109240365,
+            6987.799041208151
+          ],
+          [
+            9968.482293270094,
+            6977.834114867291
+          ],
+          [
+            9960.420777969939,
+            6977.859711606355
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10080.492225552101,
+            7034.419849266032
+          ],
+          [
+            10069.466490775789,
+            7034.419849266032
+          ],
+          [
+            10069.45376657,
+            7029.784466021783
+          ],
+          [
+            10077.041943267657,
+            7029.760372216626
+          ],
+          [
+            10076.909395525998,
+            6988.015381003127
+          ],
+          [
+            10076.189825504756,
+            6988.013804586118
+          ],
+          [
+            10076.184586413467,
+            6986.363789148856
+          ],
+          [
+            10096.005194630172,
+            6986.407211669229
+          ],
+          [
+            10096.010433721462,
+            6988.057227106491
+          ],
+          [
+            10079.159422519357,
+            6988.020310309119
+          ],
+          [
+            10079.29193192577,
+            7029.75322810408
+          ],
+          [
+            10080.48032678807,
+            7029.749454739885
+          ],
+          [
+            10080.492225552101,
+            7034.419849266032
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10033.360697842001,
+            7034.431469086727
+          ],
+          [
+            9955.99693333218,
+            7034.429844386612
+          ],
+          [
+            9955.90882065231,
+            7011.173099191573
+          ],
+          [
+            9960.342680403692,
+            7011.185261594855
+          ],
+          [
+            9960.40283570695,
+            7030.130756814786
+          ],
+          [
+            10005.577855394817,
+            7029.987283354503
+          ],
+          [
+            10005.573092653121,
+            7028.487290915756
+          ],
+          [
+            10010.073069969354,
+            7028.473002690667
+          ],
+          [
+            10010.077832711051,
+            7029.972995129413
+          ],
+          [
+            10030.461295839164,
+            7029.90827402333
+          ],
+          [
+            10030.327954457769,
+            6987.913331482163
+          ],
+          [
+            10029.538041275964,
+            6987.911600959019
+          ],
+          [
+            10029.541672177083,
+            6986.261604953928
+          ],
+          [
+            10064.18444244888,
+            6986.337499516869
+          ],
+          [
+            10064.189681540172,
+            6987.987514954129
+          ],
+          [
+            10032.128379444861,
+            6987.917275810705
+          ],
+          [
+            10032.261690151188,
+            7029.902557452476
+          ],
+          [
+            10033.361370900742,
+            7029.899065771302
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10112.977505799816,
+            7034.416571769586
+          ],
+          [
+            10101.736985200376,
+            7034.417541310696
+          ],
+          [
+            10101.724443769306,
+            7029.682000905367
+          ],
+          [
+            10106.945113482461,
+            7029.665458807249
+          ],
+          [
+            10106.94119500424,
+            7028.4332778380385
+          ],
+          [
+            10109.073613764855,
+            7028.487096437174
+          ],
+          [
+            10108.759171837684,
+            6988.086190862261
+          ],
+          [
+            10108.010577686047,
+            6988.083516738474
+          ],
+          [
+            10108.005338594756,
+            6986.433501301215
+          ],
+          [
+            10112.949437968795,
+            6986.4433911672195
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10410.105262909436,
+            6902.453536908705
+          ],
+          [
+            10410.09907134523,
+            6900.50354673834
+          ],
+          [
+            10417.660930947886,
+            6900.479536494619
+          ],
+          [
+            10417.655691932017,
+            6898.829544811998
+          ],
+          [
+            10419.90568059013,
+            6898.822400699453
+          ],
+          [
+            10419.920745698739,
+            6903.567052087112
+          ],
+          [
+            10417.670759383149,
+            6903.574196775576
+          ],
+          [
+            10417.667124852765,
+            6902.429526657558
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10419.985491751437,
+            6924.071914713037
+          ],
+          [
+            10419.96407216711,
+            6917.321800073882
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10571.32237825623,
+            6899.691632668145
+          ],
+          [
+            10571.329522368145,
+            6901.941621129111
+          ],
+          [
+            10574.32950724555,
+            6901.932095617973
+          ],
+          [
+            10574.331375636972,
+            6902.520532528642
+          ],
+          [
+            10576.407213748971,
+            6902.513941374932
+          ],
+          [
+            10576.395015234511,
+            6898.6721039161675
+          ],
+          [
+            10574.319177122516,
+            6898.678695069879
+          ],
+          [
+            10574.322363133722,
+            6899.682107184751
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11010.024921830041,
+            7006.116965645444
+          ],
+          [
+            11010.014477530432,
+            7002.816982172331
+          ],
+          [
+            10965.06113966206,
+            7002.960391431152
+          ],
+          [
+            10965.071657383096,
+            7006.260374670227
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11012.031824704465,
+            6924.5971823504315
+          ],
+          [
+            11012.087376042462,
+            6942.092690668947
+          ],
+          [
+            11014.25123680562,
+            6942.181072866105
+          ],
+          [
+            11014.195383026035,
+            6924.590312669517
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11029.369909251585,
+            6899.881473005802
+          ],
+          [
+            11023.231784475805,
+            6899.900962639249
+          ],
+          [
+            11023.22464036326,
+            6897.650973981132
+          ],
+          [
+            11029.362765139042,
+            6897.631484347683
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10997.613131756127,
+            6883.488009157432
+          ],
+          [
+            10997.665503543609,
+            6899.982140109929
+          ],
+          [
+            10995.415514885499,
+            6899.989284222466
+          ],
+          [
+            10995.363143098013,
+            6883.495153269976
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11014.179458055847,
+            6883.435408136934
+          ],
+          [
+            11014.23182984333,
+            6899.929539089424
+          ],
+          [
+            11006.665458176081,
+            6899.953563659751
+          ],
+          [
+            11006.658314063538,
+            6897.703575001632
+          ],
+          [
+            11011.974697072676,
+            6897.686694543855
+          ],
+          [
+            11011.929469397734,
+            6883.4425522494785
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10944.338711979613,
+            6811.978545730067
+          ],
+          [
+            10965.311441673755,
+            6811.909137004869
+          ],
+          [
+            10965.319908208889,
+            6814.0084724438775
+          ],
+          [
+            10944.345650372441,
+            6814.075069427807
+          ],
+          [
+            10944.338711979613,
+            6811.978545730067
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10864.327774739968,
+            6814.327950386117
+          ],
+          [
+            10864.318655398105,
+            6812.167994523718
+          ],
+          [
+            10866.603915951226,
+            6812.160359200062
+          ],
+          [
+            10866.613036497156,
+            6814.320694275234
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10846.327523380724,
+            6814.381351109154
+          ],
+          [
+            10800.797740577207,
+            6814.525916234528
+          ],
+          [
+            10800.792117339717,
+            6812.340291268217
+          ],
+          [
+            10846.320150911464,
+            6812.19573169696
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10762.29925570832,
+            6812.4269412659
+          ],
+          [
+            10782.790352803942,
+            6812.361878402904
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10744.307067319147,
+            6814.702709678639
+          ],
+          [
+            10699.317393364157,
+            6814.845559862746
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10681.327468798556,
+            6812.023914448785
+          ],
+          [
+            10681.337343259675,
+            6814.904454364774
+          ],
+          [
+            10679.83735082093,
+            6814.909217106469
+          ],
+          [
+            10679.831519704258,
+            6812.624139315844
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10640.837361261703,
+            6812.728084415137
+          ],
+          [
+            10661.829998362862,
+            6812.661420881365
+          ],
+          [
+            10661.837550805205,
+            6814.9622857425775
+          ],
+          [
+            10640.844667845453,
+            6815.028941864571
+          ],
+          [
+            10640.835474172622,
+            6812.133831844901
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10577.299339104016,
+            6812.87819853502
+          ],
+          [
+            10622.839114470518,
+            6812.76535786682
+          ],
+          [
+            10622.844864904338,
+            6815.086094427328
+          ],
+          [
+            10577.306983022809,
+            6815.228299547112
+          ],
+          [
+            10577.299339104016,
+            6812.87819853502
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10559.307071968544,
+            6815.287731040999
+          ],
+          [
+            10557.807079529788,
+            6815.292493782694
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10436.426186198505,
+            6815.695054195955
+          ],
+          [
+            10436.419455067098,
+            6813.247784572689
+          ],
+          [
+            10457.443904603066,
+            6813.154675138869
+          ],
+          [
+            10457.450707604163,
+            6815.624823189331
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10372.840009849624,
+            6813.401136551476
+          ],
+          [
+            10418.415857138942,
+            6813.255568991194
+          ],
+          [
+            10418.4262179248,
+            6815.752207551247
+          ],
+          [
+            10372.850463971987,
+            6815.870879715012
+          ],
+          [
+            10372.840009849624,
+            6813.401136551476
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10036.823130025934,
+            6816.987836799587
+          ],
+          [
+            10036.506234440943,
+            6814.916965805406
+          ],
+          [
+            10110.683407006683,
+            6814.680402749035
+          ],
+          [
+            10110.623203529585,
+            6795.719735511722
+          ],
+          [
+            10115.264284454846,
+            6795.702302338366
+          ],
+          [
+            10115.26420548498,
+            6813.574165819464
+          ],
+          [
+            10130.805658907395,
+            6813.614364945044
+          ],
+          [
+            10130.820151837084,
+            6816.632144619244
+          ],
+          [
+            10036.512901075253,
+            6817.016576006865
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10476.942915804444,
+            6813.139417898848
+          ],
+          [
+            10476.950558871667,
+            6815.546548870324
+          ],
+          [
+            10475.450566432934,
+            6815.551311612025
+          ],
+          [
+            10475.493365433878,
+            6813.131137355821
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10494.942095511424,
+            6813.082267314969
+          ],
+          [
+            10539.79932912856,
+            6812.936518955741
+          ],
+          [
+            10539.807160399454,
+            6815.346763227595
+          ],
+          [
+            10494.95030066448,
+            6815.487139882245
+          ],
+          [
+            10494.942095511424,
+            6813.082267314969
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10699.309809145012,
+            6812.591561355768
+          ],
+          [
+            10744.299483099998,
+            6812.448711171658
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10884.151625000748,
+            6812.13226739002
+          ],
+          [
+            10925.439915334528,
+            6812.0011565398445
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10354.842630240477,
+            6813.441964428063
+          ],
+          [
+            10354.850492086554,
+            6815.93184477363
+          ],
+          [
+            10353.350497650252,
+            6815.935978402745
+          ],
+          [
+            10353.342542402772,
+            6813.433129568045
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10290.706356421362,
+            6813.606471607361
+          ],
+          [
+            10335.342104578744,
+            6813.459592873365
+          ],
+          [
+            10335.350533027138,
+            6815.988738837002
+          ],
+          [
+            10290.714976251276,
+            6816.156529483315
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10251.649575491181,
+            6813.58659582826
+          ],
+          [
+            10272.704622809728,
+            6813.512007369486
+          ],
+          [
+            10272.715102544897,
+            6816.208529943776
+          ],
+          [
+            10251.728478617117,
+            6816.251541851994
+          ],
+          [
+            10251.7181812951,
+            6813.586352789093
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10168.328660071711,
+            6813.652822027474
+          ],
+          [
+            10214.218486080545,
+            6813.469781254527
+          ],
+          [
+            10214.228823547563,
+            6816.36998080792
+          ],
+          [
+            10168.320035038487,
+            6816.513692686975
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10150.320138822653,
+            6816.574955311702
+          ],
+          [
+            10148.820146230291,
+            6816.579669661966
+          ],
+          [
+            10148.809938051449,
+            6813.364674601211
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10327.919476961635,
+            6902.713040159889
+          ],
+          [
+            10327.913477448104,
+            6900.8235350162495
+          ],
+          [
+            10311.947314437946,
+            6900.874230411997
+          ],
+          [
+            10311.95392662691,
+            6899.872411472534
+          ],
+          [
+            10309.97622472802,
+            6899.878691026382
+          ],
+          [
+            10309.989684145754,
+            6904.117641218856
+          ],
+          [
+            10312.239643933895,
+            6904.10140470541
+          ],
+          [
+            10312.235386336355,
+            6902.760503911443
+          ],
+          [
+            10327.919473175958,
+            6902.711847887397
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9961.301158959071,
+            6813.320231583817
+          ],
+          [
+            9956.753111178075,
+            6813.328084361167
+          ],
+          [
+            9956.75815752697,
+            6814.82807589938
+          ],
+          [
+            9961.305921700781,
+            6814.820224022534
+          ],
+          [
+            9961.297559924062,
+            6812.186740490568
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10519.718253362167,
+            6848.254254831717
+          ],
+          [
+            10574.158521739564,
+            6848.081397336242
+          ],
+          [
+            10574.2810751891,
+            6886.678755559823
+          ],
+          [
+            10576.35704107494,
+            6886.672164000405
+          ],
+          [
+            10576.348733181165,
+            6884.055650521503
+          ],
+          [
+            10584.737648023221,
+            6884.029962962057
+          ],
+          [
+            10584.73098018485,
+            6881.92997354781
+          ],
+          [
+            10576.341937501367,
+            6881.955640278148
+          ],
+          [
+            10576.227372909523,
+            6845.874317274923
+          ],
+          [
+            10513.711160300249,
+            6846.024287039763
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10233.71996657069,
+            6813.554117816187
+          ],
+          [
+            10233.728636853919,
+            6816.313309204151
+          ],
+          [
+            10232.22874996142,
+            6816.3180232222085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10926.339254022656,
+            6812.013330473829
+          ],
+          [
+            10926.344704179086,
+            6814.131303754561
+          ],
+          [
+            10884.612645782043,
+            6814.282184945727
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10782.797944978009,
+            6814.6192348325185
+          ],
+          [
+            10761.648051591705,
+            6814.686389490434
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10364.73921648729,
+            6887.534833054554
+          ],
+          [
+            10379.439142386991,
+            6887.488158185937
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10364.772670843277,
+            6885.567362184385
+          ],
+          [
+            10379.432895719296,
+            6885.520813373547
+          ],
+          [
+            10379.439142387562,
+            6887.488158185931
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10928.107597428309,
+            6955.799351561442
+          ],
+          [
+            10978.38714515227,
+            6955.639705091088
+          ],
+          [
+            10978.287911251025,
+            6924.799117339177
+          ],
+          [
+            10979.169947896626,
+            6924.797238220831
+          ],
+          [
+            10979.16280378408,
+            6922.547249562711
+          ],
+          [
+            10978.28076713848,
+            6922.549128681059
+          ],
+          [
+            10978.156937317339,
+            6883.549786021171
+          ],
+          [
+            11029.317537464103,
+            6883.387342053309
+          ],
+          [
+            11029.419141032702,
+            6915.386680749052
+          ],
+          [
+            11024.169167497672,
+            6915.403350344986
+          ],
+          [
+            11024.191395213169,
+            6922.4038150566075
+          ],
+          [
+            10989.66275231825,
+            6922.514371118317
+          ],
+          [
+            10989.669893504884,
+            6924.763438281481
+          ],
+          [
+            10995.546423920674,
+            6924.744779256465
+          ],
+          [
+            10995.618465870406,
+            6947.433891278381
+          ],
+          [
+            10997.868454528518,
+            6947.4267471658395
+          ],
+          [
+            10997.851661475197,
+            6942.137891584359
+          ],
+          [
+            11003.087421409997,
+            6942.121267119126
+          ],
+          [
+            11003.08026997846,
+            6939.868973395251
+          ],
+          [
+            10997.844510043664,
+            6939.885597860484
+          ],
+          [
+            10997.796110137197,
+            6924.642383265843
+          ],
+          [
+            11029.448210419157,
+            6924.541882240716
+          ],
+          [
+            11029.522465750215,
+            6947.928083346072
+          ],
+          [
+            11024.272492215181,
+            6947.944752942015
+          ],
+          [
+            11024.308082384721,
+            6959.153629805855
+          ],
+          [
+            10997.905955637792,
+            6959.2374612350495
+          ],
+          [
+            10997.901793720388,
+            6957.926694237048
+          ],
+          [
+            10995.65180506228,
+            6957.933838349592
+          ],
+          [
+            10995.68145643559,
+            6967.272332562
+          ],
+          [
+            10997.931445093702,
+            6967.265188449455
+          ],
+          [
+            10997.912623476168,
+            6961.337450649291
+          ],
+          [
+            11029.253472653249,
+            6961.238708313411
+          ],
+          [
+            11029.310782724075,
+            6979.288117328675
+          ],
+          [
+            10997.969933546996,
+            6979.386859664554
+          ],
+          [
+            10997.964794212476,
+            6977.768261929434
+          ],
+          [
+            10995.714805554364,
+            6977.775406041984
+          ],
+          [
+            10995.717411650594,
+            6978.641014088811
+          ],
+          [
+            10945.269843834934,
+            6978.800388262052
+          ],
+          [
+            10945.28173990205,
+            6982.54994473333
+          ],
+          [
+            10958.333537595454,
+            6982.507255496233
+          ],
+          [
+            10958.328686033292,
+            6981.0039709719795
+          ],
+          [
+            11024.952878856828,
+            6980.801796431211
+          ],
+          [
+            11024.959612231345,
+            6982.895014103671
+          ],
+          [
+            11029.387067032874,
+            6982.876902983329
+          ],
+          [
+            11029.728547249484,
+            7026.504755177346
+          ],
+          [
+            10926.08475496304,
+            7026.780544837055
+          ],
+          [
+            10926.122555555565,
+            6979.614987816607
+          ],
+          [
+            10921.63018153765,
+            6979.625330488608
+          ],
+          [
+            10921.360534550648,
+            7031.496851605375
+          ],
+          [
+            11034.254203181505,
+            7031.2132607731155
+          ],
+          [
+            11034.181222445855,
+            6983.107084426014
+          ],
+          [
+            11034.086907204179,
+            6920.937998189106
+          ],
+          [
+            11033.92125349913,
+            6811.745260176902
+          ],
+          [
+            10983.31263152613,
+            6811.873800204987
+          ],
+          [
+            10983.319708821668,
+            6813.982542712642
+          ],
+          [
+            10989.286563922435,
+            6813.963596890752
+          ],
+          [
+            10989.291784049814,
+            6815.607639775954
+          ],
+          [
+            10991.541772707931,
+            6815.6004956634115
+          ],
+          [
+            10991.536553729276,
+            6813.956452774559
+          ],
+          [
+            11028.890506562233,
+            6813.837847357574
+          ],
+          [
+            11028.987823663309,
+            6844.48719285845
+          ],
+          [
+            10991.633924922364,
+            6844.605798103679
+          ],
+          [
+            10991.575167182014,
+            6826.100455610582
+          ],
+          [
+            10989.475177767761,
+            6826.107123448957
+          ],
+          [
+            10989.533935508118,
+            6844.612465942053
+          ],
+          [
+            10987.026479328228,
+            6844.6204275595865
+          ],
+          [
+            10987.035052263278,
+            6847.320413949327
+          ],
+          [
+            11025.152613871398,
+            6847.199383939219
+          ],
+          [
+            11025.166902096493,
+            6851.699361255454
+          ],
+          [
+            11029.216881681095,
+            6851.686501852874
+          ],
+          [
+            11029.31039335156,
+            6881.137353395193
+          ],
+          [
+            10978.149434150264,
+            6881.186715630049
+          ],
+          [
+            10978.149377264977,
+            6881.168800004229
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10148.809717920507,
+            6813.557273391987
+          ],
+          [
+            10150.309793153216,
+            6813.579449570529
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10679.830027715381,
+            6812.624855614424
+          ],
+          [
+            10681.330018950057,
+            6812.619713659946
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10232.698281542618,
+            6988.849014096702
+          ],
+          [
+            10233.034026837242,
+            6988.599619239474
+          ],
+          [
+            10237.969116567494,
+            6994.681497867474
+          ],
+          [
+            10238.984834761695,
+            6993.955769860514
+          ],
+          [
+            10237.24174259794,
+            6991.516163826422
+          ],
+          [
+            10240.890816420291,
+            6988.6640732163105
+          ],
+          [
+            10245.546205268987,
+            6995.122221697175
+          ],
+          [
+            10246.667693723353,
+            6994.313791098244
+          ],
+          [
+            10244.486454271291,
+            6991.41928487812
+          ],
+          [
+            10248.27539352154,
+            6988.733961935349
+          ],
+          [
+            10253.207660943875,
+            6994.679527983052
+          ],
+          [
+            10254.301955789913,
+            6993.771733035313
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10230.946864049507,
+            6988.543032146232
+          ],
+          [
+            10233.256968302883,
+            6986.827064328724
+          ],
+          [
+            10236.318732516866,
+            6990.600304402322
+          ],
+          [
+            10241.096687135267,
+            6986.865888447456
+          ],
+          [
+            10243.857375181307,
+            6990.28400171838
+          ],
+          [
+            10248.267871705008,
+            6986.90954866872
+          ],
+          [
+            10251.654676890463,
+            6990.787051382046
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10110.623203529585,
+            6795.719735511722
+          ],
+          [
+            10110.517718947638,
+            6762.498098601092
+          ],
+          [
+            9960.831339093593,
+            6762.498098601092
+          ],
+          [
+            9960.831339093593,
+            6793.818009595446
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.298931331585,
+            6847.730132505867
+          ],
+          [
+            9960.185347375551,
+            6832.732299250926
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.136002205156,
+            6829.822223196926
+          ],
+          [
+            9960.178139053845,
+            6814.822171179447
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.095004875931,
+            6798.31618855624
+          ],
+          [
+            9960.12129059159,
+            6813.322268775165
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10130.820151837084,
+            6816.632144619244
+          ],
+          [
+            10983.319708821668,
+            6813.982542712642
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9960.342680403692,
+            7011.185261594855
+          ],
+          [
+            9960.309722918555,
+            6942.883694011815
+          ]
+        ]
+      },
+      "properties": {
+        "type": "wall",
+        "layer": "Layer programa"
+      }
+    }
+  ]
+}
