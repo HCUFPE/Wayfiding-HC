@@ -49,7 +49,7 @@ Este é o sistema completo de navegação indoor para hospitais, com:
 - `src/App.tsx` - Roteamento e splash screen
 
 ---
-🔴 O Problema
+ O Problema
 
 Hospitais são ambientes complexos, com múltiplos andares, setores, consultórios, áreas administrativas e fluxos internos que não são intuitivos para pacientes e visitantes.
 
@@ -75,11 +75,11 @@ Permitisse que a própria equipe administrativa atualizasse os mapas sem alterar
 
 Fosse escalável para múltiplos andares.
 
-🟢 A Solução
+ A Solução
 
 Foi desenvolvido um Sistema de Navegação Indoor baseado em grafos, composto por duas interfaces principais:
 
-1️⃣ Interface do Usuário (Paciente/Visitante)
+ Interface do Usuário (Paciente/Visitante)
 
 Busca por lista de locais
 
@@ -101,7 +101,7 @@ Arestas (nav_edge) representam conexões
 
 Pesos são calculados via distância geométrica
 
-2️⃣ Interface Administrativa (Editor de Grafos)
+ Interface Administrativa (Editor de Grafos)
 
 O sistema inclui um editor visual de mapas, permitindo:
 
