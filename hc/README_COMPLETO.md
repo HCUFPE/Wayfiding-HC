@@ -59,6 +59,7 @@ git clone link do projeto
 
 ### **Passo 2: Instalar Dependências**
 ```bash
+cd hc
 npm install
 ```
 
