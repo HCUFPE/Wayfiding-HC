@@ -170,31 +170,35 @@ Caso haja necessidade de suporte para adaptação da planta real ou ajustes pont
 
 
 
-##  Estrutura de Arquivos principais
+## 📁 Estrutura de Arquivos Principais
 
+```
 novo-projeto/
 ├── public/
-│   ├── logo-hc.png               Logo do hospital
-│   ├── apenas-logo.png           Logo simples
-│   ├── click.png                 Ícone de toque
-│   └── mapa_completo.geojson     Gerado pelo editor
+│   ├── logo-hc.png            # Logo do hospital
+│   ├── apenas-logo.png        # Logo simples
+│   ├── click.png              # Ícone de toque
+│   └── mapa_completo.geojson  # Gerado pelo editor
+│
 ├── src/
-│   ├── types/                    Tipagens TypeScript
-│   ├── services/                 Lógica de negócio
-│   ├── hooks/                    Hooks React
-│   ├── components/               Componentes UI
-│   │   ├── map/                  Componentes de mapa
-│   │   ├── navigation/           Componentes de navegação
-│   │   └── editor/               Componentes do editor
-│   ├── pages/                    Páginas principais
-│   ├── App.tsx                   App principal
-│   └── main.tsx                  Entry point
-├── package.json                  Dependências
-├── tailwind.config.js            Config Tailwind
-├── tsconfig.json                 Config TypeScript
-└── vite.config.ts                Config Vite
+│   ├── types/                 # Tipagens TypeScript
+│   ├── services/              # Lógica de negócio
+│   ├── hooks/                 # Hooks React
+│   │
+│   ├── components/
+│   │   ├── map/               # Componentes de mapa
+│   │   ├── navigation/        # Componentes de navegação
+│   │   └── editor/            # Componentes do editor
+│   │
+│   ├── pages/                 # Páginas principais
+│   ├── App.tsx                # App principal
+│   └── main.tsx               # Entry point
+│
+├── package.json               # Dependências
+├── tailwind.config.js         # Configuração Tailwind
+├── tsconfig.json              # Configuração TypeScript
+└── vite.config.ts             # Configuração Vite
 ```
----
 
 ## 📝 API do Backend
 
