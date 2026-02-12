@@ -52,11 +52,9 @@ Este é o sistema completo de navegação indoor para hospitais, com:
 
 ##  Como Instalar e Usar
 
-### **Passo 1: Extrair o Projeto**
+### **Passo 1: clonar Projeto**
 ```bash
-# Extrair o arquivo compactado
-tar -xzf projeto-migrado-fase1.tar.gz
-cd novo-projeto
+git clone link do projeto
 ```
 
 ### **Passo 2: Instalar Dependências**
