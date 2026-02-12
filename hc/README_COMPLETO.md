@@ -49,6 +49,75 @@ Este é o sistema completo de navegação indoor para hospitais, com:
 - `src/App.tsx` - Roteamento e splash screen
 
 ---
+🔴 O Problema
+
+Hospitais são ambientes complexos, com múltiplos andares, setores, consultórios, áreas administrativas e fluxos internos que não são intuitivos para pacientes e visitantes.
+
+Os principais desafios identificados foram:
+
+Dificuldade de orientação interna, especialmente para pacientes em primeira visita.
+
+Perda de tempo procurando consultórios e setores.
+
+Sobrecarga na recepção, causada por perguntas recorrentes sobre localização.
+
+Falta de flexibilidade para atualizar mapas e rotas quando há mudanças estruturais.
+
+Dependência de mapas estáticos, que não oferecem cálculo de rota otimizado.
+
+Além disso, era necessário que o sistema:
+
+Permitisse integração com backend hospitalar (consulta por prontuário).
+
+Funcionasse de forma simples para o usuário final.
+
+Permitisse que a própria equipe administrativa atualizasse os mapas sem alterar código-fonte.
+
+Fosse escalável para múltiplos andares.
+
+🟢 A Solução
+
+Foi desenvolvido um Sistema de Navegação Indoor baseado em grafos, composto por duas interfaces principais:
+
+1️⃣ Interface do Usuário (Paciente/Visitante)
+
+Busca por lista de locais
+
+Busca por número de prontuário
+
+Cálculo automático de rota usando Algoritmo de Dijkstra
+
+Exibição visual do caminho no mapa
+
+Instruções passo-a-passo
+
+Reset automático para uso contínuo em totens
+
+A rota é calculada a partir de um grafo representado em GeoJSON, onde:
+
+Nós (nav_node) representam pontos navegáveis
+
+Arestas (nav_edge) representam conexões
+
+Pesos são calculados via distância geométrica
+
+2️⃣ Interface Administrativa (Editor de Grafos)
+
+O sistema inclui um editor visual de mapas, permitindo:
+
+Criar e remover nós
+
+Conectar arestas
+
+Nomear locais
+
+Definir instruções personalizadas
+
+Testar rotas em tempo real
+
+Exportar o grafo final como mapa_completo.geojson
+
+Isso elimina a necessidade de alterar código para atualizar a navegação.
 
 ##  Como Instalar e Usar
 
